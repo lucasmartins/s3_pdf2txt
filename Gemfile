@@ -1,9 +1,12 @@
 source "https://rubygems.org/"
 
+ruby "2.0.0", :engine => "jruby", :engine_version => "1.7.12"
+
 # App Stack
 gem "sinatra", "~> 1.4"
 gem 'sinatra-contrib'
-gem 'bson_ext'
+#gem 'bson_ext'
+gem 'typhoeus'
 
 group :development, :test do
   gem "rake", "~> 10.0"
