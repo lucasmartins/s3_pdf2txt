@@ -8,7 +8,7 @@ end
 describe Pdf2txt do
   context 'with good params' do
     it 'schedules the job' do
-      post '/convert', {'file_url'=>'http://s3.amazon.com/foo/bar.pdf'}
+      post '/convert', {'file_url'=>'http://s3.amazon.com/foo/bar.pdf', 'callback_url'=>'http://0.0.0.0/txt/callback'}
       expect(last_response.status).to eq(200)
     end
   end
