@@ -7,8 +7,11 @@ gem "sinatra", "~> 1.4"
 gem 'sinatra-contrib'
 #gem 'bson_ext'
 gem 'typhoeus'
+gem 'sidekiq'
+gem 'webmock'
 
 group :development, :test do
+  gem 'vcr'
   gem "rake", "~> 10.0"
   gem 'rspec'
   #gem "minitest", "~> 5.2"
