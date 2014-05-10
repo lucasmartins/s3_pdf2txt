@@ -1,3 +1,6 @@
+require 'pry'
+require 'pry-nav'
+
 class Pdf2txt < Sinatra::Base
   post '/convert' do
     content_type :json
@@ -9,5 +12,11 @@ class Pdf2txt < Sinatra::Base
     end
     # convert pdf
     # call callback telling the url of the TXT file.
+  end
+
+  post '/mock_callback' do
+    #content_type :json
+    binding.pry
+    status 200
   end
 end

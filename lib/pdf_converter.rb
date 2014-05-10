@@ -1,7 +1,7 @@
 require 'java'
-require 'lib/pdfbox-1.8.4.jar'
-require 'lib/commons-logging-1.1.3.jar'
-require 'lib/fontbox-1.8.4.jar'
+require 'vendor/pdfbox-1.8.4.jar'
+require 'vendor/commons-logging-1.1.3.jar'
+require 'vendor/fontbox-1.8.4.jar'
 java_import 'org.apache.commons.logging.LogFactory'
 java_import 'org.apache.pdfbox.ExtractText'
 
@@ -36,6 +36,10 @@ class PdfConverter
       block.call(new_file) if block_given?
     end
     request.run
+  end
+
+  def self.storage_path(filename)
+    "storage/#{filename}"
   end
 
   private
