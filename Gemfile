@@ -11,6 +11,7 @@ gem 'sidekiq'
 gem 'webmock'
 
 group :development, :test do
+  gem 'foreman'
   gem 'vcr'
   gem "rake", "~> 10.0"
   gem 'rspec'
