@@ -14,12 +14,11 @@ class PdfConverter
 
   # callback
   # {'status':0, 'sha1':'pdf file sha1', 'glue_id':'mongo hash'}
-  def self.retrieve_file(file_url, local_copy, &block)
+  def self.retrieve_and_convert!(file_url, local_copy, &block)
     raise 'invalid file_url' unless file_url =~ /http/
     raise 'invalid local_copy' unless  local_copy
     raise 'no block given' unless block_given?
 
-    #file_extension = file_url.split('.').last
     downloaded_file = File.open local_copy, 'wb'
     request = Typhoeus::Request.new(file_url)
     request.on_headers do |response|

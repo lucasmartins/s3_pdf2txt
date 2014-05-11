@@ -9,6 +9,7 @@ gem 'sinatra-contrib'
 gem 'typhoeus'
 gem 'sidekiq'
 gem 'webmock'
+gem 'aws-s3'
 
 group :development, :test do
   gem 'foreman'

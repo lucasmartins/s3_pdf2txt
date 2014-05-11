@@ -1,6 +1,3 @@
-require 'pry'
-require 'pry-nav'
-
 class Pdf2txt < Sinatra::Base
   post '/convert' do
     content_type :json
