@@ -8,7 +8,6 @@ gem 'sinatra-contrib'
 #gem 'bson_ext'
 gem 'typhoeus'
 gem 'sidekiq'
-gem 'webmock'
 gem 'aws-s3'
 gem 'puma'
 
@@ -17,8 +16,7 @@ group :development, :test do
   gem 'vcr'
   gem "rake", "~> 10.0"
   gem 'rspec'
-  #gem "minitest", "~> 5.2"
-  #gem "rack-test", "~> 0.6"
+  gem 'webmock'
   gem 'pry'
   gem 'pry-nav'
 end
