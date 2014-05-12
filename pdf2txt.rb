@@ -10,7 +10,8 @@ class Pdf2txt < Sinatra::Base
         invalid_params
       else
         jid = ConverterWorker.perform_async(params['file_url'],params['callback_url'])
-        status [200,{jid: jid}]
+        status 200
+        body({'jid'=>jid}.to_json)
       end
     rescue JSON::ParserError => e
       invalid_params

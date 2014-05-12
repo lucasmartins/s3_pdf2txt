@@ -13,6 +13,12 @@ describe Pdf2txt do
       post '/convert', params.to_json, {content_type: 'application/json'}
       expect(last_response.status).to eq(200)
     end
+    it 'returns the job id' do
+      ConverterWorker.stub(:perform_async).and_return('123456')
+      expected_response_body = {'jid'=>'123456'}.to_json
+      post '/convert', params.to_json, {content_type: 'application/json'}
+      expect(last_response.body).to eq(expected_response_body)
+    end
   end
   context 'with bad params' do
     it "raises params error" do
