@@ -10,6 +10,7 @@ gem 'typhoeus'
 gem 'sidekiq'
 gem 'webmock'
 gem 'aws-s3'
+gem 'puma'
 
 group :development, :test do
   gem 'foreman'
