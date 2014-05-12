@@ -1,3 +1,4 @@
+require 'sinatra/json'
 require 'json'
 
 class Pdf2txt < Sinatra::Base
