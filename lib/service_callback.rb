@@ -1,5 +1,6 @@
 class ServiceCallback
   def self.send(callback_url, body=nil, params)
+    puts "Calling back to #{callback_url} with params: #{params}, and body:\n#{body}"
     request = Typhoeus::Request.new(
       callback_url,
       method: :post,
