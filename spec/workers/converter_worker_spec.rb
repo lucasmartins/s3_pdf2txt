@@ -19,7 +19,7 @@ describe ConverterWorker do
         expect(File.exists?(storage_path)).to be_true
       end
       it "calls callback" do
-        ServiceCallback.should_receive(:send).and_return('something')
+        ServiceCallback.should_receive(:send).with(callback_url, nil, {"file_url"=>"https://s3.amazonaws.com/teleforce-test/stub.txt"}).and_return('something')
         run_job
       end
     end
@@ -37,7 +37,7 @@ describe ConverterWorker do
         expect(File.exists?(storage_path)).to be_true
       end
       it "calls callback" do
-        ServiceCallback.should_receive(:send).and_return('something')
+        ServiceCallback.should_receive(:send).with(callback_url, nil, {'file_url'=>'https://s3.amazonaws.com/teleforce-test/neogrid_gvt.txt'} ).and_return('something')
         run_job
       end
     end
