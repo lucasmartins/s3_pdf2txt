@@ -9,6 +9,7 @@ class Pdf2txt < Sinatra::Base
       unless Sinatra::Hat.validate_params(params,['file_url','callback_url'])
         invalid_params
       else
+        puts "Conversion request accepted with params: #{params}"
         jid = ConverterWorker.perform_async(params['file_url'],params['callback_url'])
         status 200
         body({'jid'=>jid}.to_json)
