@@ -21,8 +21,14 @@ describe Pdf2txt do
     end
   end
   context 'with bad params' do
-    it "raises params error" do
+    it "raises error when no params are set" do
       post '/convert', '', {content_type: 'application/json'}
+      expect(JSON.parse(last_response.body)).to eq({"message"=>"invalid params"})
+      expect(last_response.status).to eq(400)
+    end
+    it "raises error when callback_url is invalid" do
+      params['callback_url']='http:///txt_callback'
+      post '/convert', params.to_json, {content_type: 'application/json'}
       expect(JSON.parse(last_response.body)).to eq({"message"=>"invalid params"})
       expect(last_response.status).to eq(400)
     end

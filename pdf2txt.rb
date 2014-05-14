@@ -6,7 +6,7 @@ class Pdf2txt < Sinatra::Base
     content_type :json
     begin
       params = JSON.parse(request.body.read)  
-      unless Sinatra::Hat.validate_params(params,['file_url','callback_url'])
+      unless Sinatra::Hat.validate_params(params,['file_url','callback_url']) && params['callback_url'] =~ /https?:\/\/(\w.*):?\//
         invalid_params
       else
         puts "Conversion request accepted with params: #{params}"
