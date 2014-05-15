@@ -1,5 +1,20 @@
-PDF 2 Text conversion service
-=============================
+Amazon S3 PDF 2 Text conversion service
+=======================================
+
+What is this?
+=============
+
+This is a jRuby service which wraps [Apache's PdfBox](pdfbox.apache.org) - which is awesome BTW - 
+within Sinatra. Under the hood it uses Sidekiq do proccess jobs in the background, and Typhoeus to call back the API caller.
+
+**It's all async!**
+
+Should I use this?
+==================
+
+**NO!**, unless you're willing to fork & dig through some code, send some Pull Requests and take some risk at your production environment.
+
+The codebase will evolve at a point where you can just drop in your environment and use it. But that's not now.
 
 Usage
 =====
