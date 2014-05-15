@@ -4,7 +4,6 @@ describe ServiceCallback do
   describe '.send' do
     let(:callback_url){ 'http://127.0.0.1:9292/mock_callback' }
     let(:params){ {'foo'=>'bar', 'baz'=>'zoo'} }
-    #let(:body) { File.read('spec/fixtures/vivo_longa_distancia.txt') }
     let(:body) { 'this is a sample body' }
 
     it 'sends a request to the callback_url' do

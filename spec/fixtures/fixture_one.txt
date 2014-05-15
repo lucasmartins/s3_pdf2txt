@@ -1,0 +1,6502 @@
+G R A D U A T E  R E C O R D  E X A M I N A T I O N S ?
+Biology Test
+Practice Book
+This practice book contains
+ one actual, full-length GRE? Biology Test
+ test-taking strategies
+Become familiar with
+ test structure and content
+ test instructions and answering procedures
+Compare your practice test results with the performance of those who 
+took the test at a GRE administration.
+This book is provided FREE with test registration by the Graduate Record Examinations Board.
+www.ets.org/gre
+Copyright ? 2008 by Educational Testing Service. All rights reserved.
+ETS, the ETS logos, LISTENING. LEARNING. LEADING., GRADUATE RECORD EXAMINATIONS,
+and GRE are registered trademarks of Educational Testing Service (ETS) in the United States of America
+and other countries throughout the world.
+?
+Note to Test Takers: Keep this practice book until you receive your score report. 
+This book contains important information about scoring.
+
+BIOLOGY TEST
+PRACTICE BOOK
+3
+Purpose of the GRE
+Subject Tests
+The GRE Subject Tests are designed to help gradu-
+ate school admission committees and fellowship 
+sponsors assess the qualifi cations of applicants in 
+specifi c fi elds of study. The tests also provide you 
+with an assessment of your own qualifi cations.
+Scores on the tests are intended to indicate 
+knowledge of the subject matter emphasized in 
+many undergraduate programs as preparation for 
+graduate study. Because past achievement is usually 
+a good indicator of future performance, the scores 
+are helpful in predicting success in graduate study. 
+Because the tests are standardized, the test scores 
+permit comparison of students from different 
+institutions with different undergraduate programs. 
+For some Subject Tests, subscores are provided in 
+addition to the total score; these subscores indicate 
+the strengths and weaknesses of your preparation, 
+and they may help you plan future studies.
+The GRE Board recommends that scores on the 
+Subject Tests be considered in conjunction with 
+other relevant information about applicants. Because
+numerous factors infl uence success in graduate 
+school, reliance on a single measure to predict 
+success is not advisable. Other indicators of compe-
+tence typically include undergraduate transcripts 
+showing courses taken and grades earned, letters of 
+recommendation, and GRE General Test scores. 
+For information about the appropriate use of GRE 
+scores, see the GRE Guide to the Use of Scores at 
+ets.org/gre/stupubs.
+Development of the
+Subject Tests
+Each new edition of a Subject Test is developed by 
+a committee of examiners composed of professors in 
+the subject who are on undergraduate and graduate 
+faculties in different types of institutions and in 
+different regions of the United States and Canada. 
+In selecting members for each committee, the GRE 
+Program seeks the advice of appropriate professional 
+associations in the subject.
+The content and scope of each test are specifi ed 
+and reviewed periodically by the committee of 
+examiners. Test questions are written by committee 
+members and by other university faculty members 
+who are subject-matter specialists. All questions 
+proposed for the test are reviewed and revised by 
+the committee and subject-matter specialists at 
+ETS. The tests are assembled in accordance with 
+the content specifi cations developed by the com-
+mittee to ensure adequate coverage of the various 
+aspects of the fi eld and, at the same time, to prevent 
+overemphasis on any single topic. The entire test 
+is then reviewed and approved by the committee. 
+Table of Contents
+Purpose of the GRE Subject Tests ................... 3
+Development of the Subject Tests ................... 3
+Content of the Biology Test ............................ 4
+Preparing for a Subject Test ............................. 8
+Test-Taking Strategies ...................................... 8
+What Your Scores Mean .................................. 9
+Practice Biology Test ....................................... 13
+Scoring Your Subject Test ............................... 65
+Evaluating Your Performance ......................... 68
+Answer Sheet .................................................. 69
+BIOLOGY TEST
+PRACTICE BOOK
+4
+Subject-matter and measurement specialists 
+on the ETS staff assist the committee, providing 
+information and advice about methods of test con-
+struction and helping to prepare the questions and 
+assemble the test. In addition, each test question is 
+reviewed to eliminate language, symbols, or content 
+considered potentially offensive, inappropriate for 
+major subgroups of the test-taking population, or 
+likely to perpetuate any negative attitude that may be 
+conveyed to these subgroups.
+Because of the diversity of undergraduate cur-
+ricula, it is not possible for a single test to cover all 
+the material you may have studied. The examiners, 
+therefore, select questions that test the basic knowl-
+edge and skills most important for successful graduate 
+study in the particular fi eld. The committee keeps the 
+test up-to-date by regularly developing new editions 
+and revising existing editions. In this way, the test 
+content remains current. In addition, curriculum 
+surveys are conducted periodically to ensure that 
+the content of a test refl ects what is currently being 
+taught in the undergraduate curriculum.
+After a new edition of a Subject Test is fi rst 
+administered, examinees? responses to each test 
+question are analyzed in a variety of ways to deter-
+mine whether each question functioned as expected. 
+These analyses may reveal that a question is ambigu-
+ous, requires knowledge beyond the scope of the test, 
+or is inappropriate for the total group or a particular 
+subgroup of examinees taking the test. Such questions 
+are not used in computing scores.
+Following this analysis, the new test edition is 
+equated to an existing test edition. In the equating 
+process, statistical methods are used to assess the 
+diffi culty of the new test. Then scores are adjusted so 
+that examinees who took a more diffi cult edition of 
+the test are not penalized, and examinees who took 
+an easier edition of the test do not have an advantage. 
+Variations in the number of questions in the differ-
+ent editions of the test are also taken into account 
+in this process.
+Scores on the Subject Tests are reported as three-
+digit scaled scores with the third digit always zero. 
+The maximum possible range for all Subject Test 
+total scores is from 200 to 990. The actual range 
+of scores for a particular Subject Test, however, 
+may be smaller. For Subject Tests that report sub-
+scores, the maximum possible range is 20 to 99; 
+however, the actual range of subscores for any 
+test or test edition may be smaller than 20 to 99. 
+Subject Test score interpretive information is 
+provided in Interpreting Your GRE Scores, which 
+you will receive with your GRE score report. This 
+publication is also available at ets.org/gre/stupubs.
+Content of the Biology Test
+The GRE Biology examination is designed to evaluate 
+the following abilities and background of the student.
+ Knowledge of basic vocabulary and facts in 
+several biological fi elds at the equivalent of 
+an upper-level course.
+ Conceptual understanding of ideas, relation-
+ships, and processes 
+ Understanding of basic scientifi c research, 
+procedures, and tools
+ Capacity to read, evaluate, and draw conclusions 
+from unfamiliar laboratory and fi eld studies
+ Understanding of the connections among 
+biological fi elds and between biological fi elds 
+and allied sciences
+The test contains about 200 fi ve-choice questions, 
+a number of which are grouped in sets toward the 
+end of the test and are based on descriptions of 
+laboratory and fi eld situations, diagrams, or experi-
+mental results.
+To cover the broad fi eld of the biological sciences, 
+the subject matter on which the students are tested 
+is organized into three major areas: cellular and 
+molecular biology; organismal biology; and ecology 
+and evolution. Approximately equal weight is given 
+to each of these three areas. In addition to the total 
+score, a subscore in each of these subareas is reported. 
+BIOLOGY TEST
+PRACTICE BOOK
+5
+The approximate distribution of questions by 
+content category is shown below. However, subject 
+areas indicated by Arabic numerals may not contain 
+equal numbers of questions.
+I. Cellular and Molecular Biology (33-34%)
+Fundamentals of cellular biology, genetics, and 
+molecular biology are addressed. Major topics in 
+cellular structure and function include metabolic 
+pathways and their regulation, membrane dynamics 
+and cell surfaces, organelles, cytoskeleton, and cell 
+cycle. Major areas in genetics and molecular biol-
+ogy include chromatin and chromosomal structure, 
+genomic organization and maintenance, and the 
+regulation of gene expression. The cellular basis of 
+immunity and the mechanisms of antigen-antibody 
+interactions are included. Distinctions between pro-
+karyotic and eukaryotic cells are considered where 
+appropriate. Attention is also given to experimental 
+methodology.
+A. Cellular Structure and Function (16-17%)
+  1. Biological compounds 
+    Macromolecular structure and bonding
+    Abiotic origin of biological molecules
+  2. Enzyme activity, receptor binding, and regulation
+  3. Major metabolic pathways and regulation 
+    Respiration, fermentation, and photosynthesis
+    Synthesis and degradation of macromolecules
+    Hormonal control and intracellular messengers
+  4. Membrane dynamics and cell surfaces 
+    Transport, endocytosis, and exocytosis
+    Electrical potentials and transmitter 
+ substances
+    Mechanisms of cell recognition, cell 
+ junctions, and plasmodesmata
+    Cell wall and extracellular matrix
+  5. Organelles: structure, function, synthesis, 
+ and targeting 
+    Nucleus, mitochondria, and plastids
+    Endoplasmic reticulum and ribosomes
+    Golgi apparatus and secretory vesicles
+    Lysosomes, peroxisomes, and vacuoles
+  6. Cytoskeleton, motility, and shape 
+    Actin-based systems
+    Microtubule-based systems
+    Intermediate fi laments
+    Bacterial fl agella and movement
+  7. Cell cycle, growth, division, and regulation
+ (including signal transduction) 
+  8. Methods 
+    Microscopy (e.g., electron, light, 
+ fl uorescence)
+    Separation (e.g., centrifugation, gel fi ltration,
+ PAGE, Fluorescence activated cell 
+ sorting (FACS))
+    Immunological (e.g., Western Blotting, 
+ immunohistochemistry, immunofl uor-
+ escence)
+B. Genetics and Molecular Biology (16-17%)
+  1. Genetic foundations 
+    Mendelian inheritance
+    Pedigree analysis
+    Prokaryotic genetics (transformation, 
+ transduction, and conjugation)
+    Genetic mapping
+  2. Chromatin and chromosomes 
+    Nucleosomes
+    Karyotypes
+    Chromosomal aberrations
+    Polytene chromosomes
+  3. Genome sequence organization
+    Introns and exons
+    Single-copy and repetitive DNA
+    Transposable elements
+  4. Genome maintenance
+    DNA replication
+    DNA mutation and repair
+  5. Gene expression and regulation in 
+ prokaryotes and eukaryotes: mechanisms 
+    The operon
+    Promoters and enhancers
+    Transcription factors
+    RNA and protein synthesis
+    Processing and modifi cations of both 
+ RNA and protein
+BIOLOGY TEST
+PRACTICE BOOK
+6
+  3. Support and movement
+    Support systems (external, internal, 
+and hydrostatic)
+    Movement systems (fl agellar, ciliary, and 
+muscular)
+  4. Integration and control mechanisms 
+    Nervous and endocrine systems
+  5. Behavior (communication, orientation, 
+ learning, and instinct) 
+  6. Metabolic rates (temperature, body size, 
+ and activity)
+B. Animal Reproduction and Development (6%)
+  1. Reproductive structures
+  2. Meiosis, gametogenesis, and fertilization
+  3. Early development (e.g., polarity, cleavage, 
+ and gastrulation) 
+  4. Developmental processes (e.g., induction, 
+ determination, differentiation, morpho-
+ genesis, and metamorphosis)
+  5. External control mechanisms 
+ (e.g., photoperiod)
+C. Plant Structure, Function, and Organization, 
+ with Emphasis on Flowering Plants (7%)
+  1. Organs, tissue systems, and tissues 
+  2. Water transport, including absorption 
+ and transpiration 
+  3. Phloem transport and storage
+  4. Mineral nutrition
+  5. Plant energetics (e.g., respiration and 
+ photosynthesis)
+D. Plant Reproduction, Growth, and 
+ Development, with Emphasis on
+ Flowering Plants (5%)
+  1. Reproductive structures
+  2. Meiosis and sporogenesis
+  3. Gametogenesis and fertilization
+  4. Embryogeny and seed development
+  5. Meristems, growth, morphogenesis, and 
+ differentiation
+  6. Control mechanisms (e.g., hormones, 
+ photoperiod, and tropisms)
+  6. Gene expression and regulation: effects 
+    Control of normal development
+    Cancer and oncogenes
+  7. Immunobiology 
+    Cellular basis of immunity
+    Antibody diversity and synthesis
+    Antigen-antibody interactions
+  8. Bacteriophages, animal viruses, and 
+ plant viruses 
+    Viral genomes, replication, and assembly
+    Virus - host cell interactions
+  9. Recombinant DNA methodology 
+    Restriction endonucleases
+    Blotting and hybridization
+    Restriction fragment length polymorphisms
+    DNA cloning, sequencing, and analysis
+    Polymerase chain reaction
+II. Organismal Biology (33-34%)
+The structure, physiology, behavior, and development 
+of plants and animals are addressed. Topics covered 
+include nutrient procurement and processing, gas 
+exchange, internal transport, regulation of fl uids, 
+control mechanisms and effectors, and reproduction 
+in autotrophic and heterotrophic organisms. Exam-
+ples of developmental phenomena range from fertil-
+ization through differentiation and morphogenesis.  
+Perceptions and responses to environmental stimuli 
+are examined as they pertain to both plants and 
+animals. Major distinguishing characteristics and 
+phylogenetic relationships of selected groups from 
+the various kingdoms are also covered.
+A. Animal Structure, Function, 
+ and Organization (10%)
+  1. Exchange with environment 
+    Nutrient, salt, and water exchange
+    Gas exchange
+    Energy
+  2. Internal transport and exchange 
+ (circulatory, gastrovascular, and 
+ digestive systems)
+BIOLOGY TEST
+PRACTICE BOOK
+7
+E. Diversity of Life (6%)
+  1. Archaea 
+    Morphology, physiology, and identifi cation 
+  2. Bacteria (including cyanobacteria) 
+    Morphology, physiology, pathology, 
+ and identifi cation
+  3. Protista 
+    Protozoa, other heterotrophic Protista 
+ (slime molds and Oomycota), and 
+ Autotrophic Protista
+    Major distinguishing characteristics
+    Phylogenetic relationships
+    Importance (e.g. eutrophication, disease)
+  4. Fungi  
+    Distinctive features of major phyla 
+ (vegetative, asexual and sexual 
+ reproduction)
+    Generalized life cycles
+    Importance (e.g., decomposition, 
+ biodegradation, antibiotics, and 
+ pathogenicity)
+    Lichens
+  5. Animalia with emphasis on major phyla  
+    Major distinguishing characteristics
+    Phylogenetic relationships
+  6. Plantae with emphasis on major phyla 
+    Alternation of generations
+    Major distinguishing characteristics
+    Phylogenetic relationships
+III. Ecology and Evolution (33-34%)
+This section deals with the interactions of organ-
+isms and their environment, emphasizing biological 
+principles at levels above the individual. Ecologi-
+cal and evolutionary topics are given equal weight. 
+Ecological questions range from physiological 
+adaptations to the functioning of ecosystems. Al-
+though principles are emphasized, some questions 
+may consider applications to current environmental 
+problems. Questions in evolution range from its 
+genetic foundations through evolutionary processes 
+to their consequences. Evolution is considered at 
+the molecular, individual, population, and higher 
+levels. Principles of ecology, genetics, and evolution 
+are interrelated in many questions. Some questions 
+may require quantitative skills, including the inter-
+pretation of simple mathematical models.
+A. Ecology (16-17%)
+  1. Environment/organism interaction 
+    Biogeographic patterns 
+    Physiological ecology 
+    Temporal patterns (e.g., seasonal fl uctuations) 
+  2. Behavioral ecology 
+    Habitat selection
+    Mating systems
+    Social systems
+    Resource acquisition
+  3. Population Structure and Function 
+    Population dynamics/regulation 
+    Demography and life history strategies 
+  4. Communities 
+    Direct and indirect interspecifi c interactions 
+    Community structure and diversity 
+    Change and succession 
+  5. Ecosystems 
+    Productivity and energy fl ow 
+    Chemical cycling 
+B. Evolution (16-17%)
+  1. Genetic variability 
+    Origins (mutations, linkage, recombination, 
+ and chromosomal alterations) 
+    Levels (e.g., polymorphism and heritability) 
+    Spatial patterns (e.g., clines and ecotypes) 
+    Hardy-Weinberg equilibrium 
+  2. Evolutionary processes 
+    Gene fl ow and genetic drift 
+    Natural selection and its dynamics 
+    Levels of selection (e.g., individual 
+ and group) 
+    Trade-offs and genetic correlations
+BIOLOGY TEST
+PRACTICE BOOK
+8
+  3. Evolutionary consequences 
+    Fitness and adaptation 
+    Speciation 
+    Systematics and phylogeny 
+    Convergence, divergence, and extinction 
+    Coevolution
+  4. History of life 
+    Origin of prokaryotic and eukaryotic cells
+    Fossil record
+    Paleontology and paleoecology
+Preparing for a
+Subject Test
+GRE Subject Test questions are designed to measure 
+skills and knowledge gained over a long period of 
+time. Although you might increase your scores to 
+some extent through preparation a few weeks or 
+months before you take the test, last minute cramming 
+is unlikely to be of further help. The following infor-
+mation may be helpful.
+ A general review of your college courses is 
+probably the best preparation for the test. 
+However, the test covers a broad range of 
+subject matter, and no one is expected to be 
+familiar with the content of every question.
+ Use this practice book to become familiar 
+with the types of questions in the GRE 
+Biology Test, paying special attention to the 
+directions. If you thoroughly understand the 
+directions before you take the test, you will 
+have more time during the test to focus on 
+the questions themselves.
+Test-Taking Strategies
+The questions in the practice test in this book 
+illustrate the types of multiple-choice questions in 
+the test. When you take the actual test, you will 
+mark your answers on a separate machine-scorable 
+answer sheet. Total testing time is two hours and 
+fi fty minutes; there are no separately timed sections. 
+Following are some general test-taking strategies 
+you may want to consider.
+ Read the test directions carefully, and work 
+as rapidly as you can without being careless. 
+For each question, choose the best answer 
+from the available options.
+ All questions are of equal value; do not waste 
+time pondering individual questions you fi nd 
+extremely diffi cult or unfamiliar.
+ You may want to work through the test quite 
+rapidly, fi rst answering only the questions 
+about which you feel confi dent, then going 
+back and answering questions that require 
+more thought, and concluding with the most 
+diffi cult questions if there is time.
+ If you decide to change an answer, make sure 
+you completely erase it and fi ll in the oval 
+corresponding to your desired answer.
+ Questions for which you mark no answer 
+or more than one answer are not counted 
+in scoring.
+ Your score will be determined by subtracting 
+one-fourth the number of incorrect answers 
+from the number of correct answers. If you 
+have some knowledge of a question and 
+are able to rule out one or more of the 
+answer choices as incorrect, your chances 
+of selecting the correct answer are improved, 
+and answering such questions will likely 
+improve your score. It is unlikely that pure 
+guessing will raise your score; it may lower 
+your score.
+ Record all answers on your answer sheet.
+Answers recorded in your test book will 
+not be counted. 
+ Do not wait until the last fi ve minutes of 
+a testing session to record answers on your 
+answer sheet.
+BIOLOGY TEST
+PRACTICE BOOK
+9
+What Your Scores Mean 
+Your raw score, that is?the number of questions 
+you answered correctly minus one-fourth of the 
+number you answered incorrectly?is converted to 
+the scaled score that is reported. This conversion 
+ensures that a scaled score reported for any edition 
+of a Subject Test is comparable to the same scaled 
+score earned on any other edition of the same test. 
+Thus, equal scaled scores on a particular Subject 
+Test indicate essentially equal levels of performance 
+regardless of the test edition taken. Test scores 
+should be compared only with other scores on the 
+same Subject Test. (For example, a 680 on the 
+Computer Science Test is not equivalent to a 680 
+on the Mathematics Test.)
+Before taking the test, you may fi nd it useful 
+to know approximately what raw scores would be 
+required to obtain a certain scaled score. Several 
+factors infl uence the conversion of your raw score 
+to your scaled score, such as the diffi culty of the test 
+edition and the number of test questions included 
+in the computation of your raw score. Based on 
+recent editions of the Biology Test, the following 
+table gives the range of raw scores associated with 
+selected scaled scores for three different test editions. 
+(Note that when the number of scored questions 
+for a given test is greater than the range of possible 
+scaled scores, it is likely that two or more raw scores 
+will convert to the same scaled score.) The three 
+test editions in the table that follows were selected 
+to refl ect varying degrees of diffi culty. Examinees 
+should note that future test editions may be some-
+what more or less diffi cult than those test editions 
+illustrated in the table.
+Range of Raw Scores* Needed 
+to Earn Selected Scaled Score 
+on Three Biology Test Editions 
+That Differ in Diffi culty
+Scaled Score
+Raw Scores
+Form A Form B Form C
+800 128-130 124-125 120-121
+700 101-103 95-97 92-94
+600 74-76 67-69 64-66
+500 47-49 39-41 37-39
+Number of Questions Used to Compute Raw Score
+199 198 200
+*Raw Score = Number of correct answers minus one-fourth the 
+number of incorrect answers, rounded to the nearest integer.
+For a particular test edition, there are many ways 
+to earn the same raw score.  For example, on the 
+edition listed above as ?Form A,? a raw score of 
+101 through 103 would earn a scaled score of 700. 
+Below are a few of the possible ways in which a 
+scaled score of 700 could be earned on the edition:
+Examples of Ways to Earn
+ a Scaled Score of 700 
+on the Edition Labeled as ?Form A?
+Raw 
+Score
+Questions
+Answered
+Correctly
+Questions
+Answered
+Incorrectly
+Questions
+Not 
+Answered
+Number of 
+Questions
+Used to 
+Compute
+Raw Score
+101 101 0 98 199
+101 111 39 49 199
+101 120 78 1 199
+103 103 0 96 199
+103 112 37 50 199
+103 122 75 2 199
+BIOLOGY TEST
+PRACTICE BOOK
+10
+Practice Test
+To become familiar with how the administration will be conducted at the test center, fi rst 
+remove the answer sheet (pages 69 and 70). Then go to the back cover of the test book 
+(page 64) and follow the instructions for completing the identifi cation areas of the answer 
+sheet. When you are ready to begin the test, note the time and begin marking your answers 
+on the answer sheet.
+
+
+13
+Copyright ? 1999, 2003, 2006 by Educational Testing Service. All rights reserved.
+GRE, GRADUATE RECORD EXAMINATIONS, ETS, EDUCATIONAL TESTING 
+SERVICE and the ETS logos are registered trademarks of Educational Testing Service.
+FORM  GR0624
+THIS TEST BOOK MUST NOT BE TAKEN FROM THE ROOM.
+GRADUATE RECORD EXAMINATIONS?
+Do not break the seal
+until you are told to do so.
+ The contents of this test are confi dential.
+ Disclosure or reproduction of any portion
+ of it is prohibited.
+BIOLOGY TEST
+24
+14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NO TEST MATERIAL ON THIS PAGE 
+ 
+15
+ 
+ 
+BIOLOGY TEST 
+Time?170 minutes 
+200 Questions 
+ 
+Directions:  Each of the questions or incomplete statements below is followed by five suggested answers or 
+completions. Select the one that is best in each case and then completely fill in the corresponding space on the 
+answer sheet. 
+ 
+ 1. In the formation of the secondary structure  
+of a protein, which of the following are most 
+responsible for holding an alpha-helix region  
+in its helical form? 
+(A) Ionic bonds 
+(B) Hydrogen bonds 
+(C) Disulfide bonds 
+(D) Hydrophobic interactions 
+(E) van der Waals interactions 
+ 
+ 2. Why do erythrocytes swell and burst when placed 
+in water? 
+(A) Since water concentration is higher outside 
+the cell, water moves inward by passive 
+diffusion. 
+(B) Since hemoglobin concentration is higher 
+inside the cell, hemoglobin moves outward 
+by exocytosis. 
+(C) Since potassium ions are more concentrated 
+inside the cells, potassium ions move 
+outward by osmosis. 
+(D) Erythrocytes pump water inward by active 
+transport to balance osmotic gradients. 
+(E) Water is a universal solvent and simply 
+dissolves the erythrocyte membranes. 
+ 
+ 3. The addition of -amanitin, a known inhibitor  
+of DNA-dependent mRNA synthesis, to growing 
+cells will most likely cause protein synthesis to  
+(A) stop immediately 
+(B) stop as mRNA becomes depleted 
+(C) stop as thymidine becomes depleted 
+(D) stop as the ribosomes become inactivated 
+(E) be unaffected 
+ 
+ 4. An infectious agent that appears to have no 
+nucleic acid is a  
+(A) bacterium 
+(B) bacteriophage 
+(C) viroid 
+(D) virus 
+(E) prion 
+ 
+ 5. Separation of molecules according to size can be 
+achieved by which of the following? 
+(A) Gel-filtration chromatography 
+(B) Ion-exchange chromatography 
+(C) Affinity chromatography 
+(D) Isoelectric focusing 
+(E) X-ray diffraction 
+ 
+ 6. Which of the following is true of the movement of 
+cilia and flagella in eukaryotes? 
+(A) It produces ATP. 
+(B) It is the result of a rotating motion. 
+(C) It is identical to that of bacterial flagella. 
+(D) It is driven by a proton gradient. 
+(E) It results from one microtubule pair sliding 
+along a neighboring microtubule pair. 
+ 
+ 7. Which of the following is true of the polymerase 
+chain reaction? 
+(A) It enables a small amount of DNA to be 
+amplified. 
+(B) It involves the addition of a poly-A sequence 
+to mRNA. 
+(C) It cuts DNA into numerous small fragments 
+for analysis. 
+(D) It separates DNA fragments according to 
+size. 
+(E) It requires RNA in order to proceed. 
+ 
+ 8. Which of the following pathways is most likely 
+taken by newly synthesized histones? 
+(A) Rough endoplasmic reticulum ? Golgi 
+complex ? secretory vesicle 
+(B) Rough endoplasmic reticulum ? Golgi 
+complex ? nucleus 
+(C) Rough endoplasmic reticulum ? smooth 
+endoplasmic reticulum ? nucleus 
+(D) Cytoplasm ? nucleus 
+(E) Cytoplasm ? rough endoplasmic reticulum 
+? Golgi complex ? nucleus 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+( )
+ 
+GO ON TO THE NEXT PAGE. 
+16
+ 
+ 
+ 9. How many different types of gametes could be 
+produced by an individual with the arbitrary 
+genotype of AAbbCCDdEe ? 
+(A) Two 
+(B) Four 
+(C) Six 
+(D) Eight 
+(E) More than eight 
+ 
+10. During cytokinesis in an animal cell, a constricting 
+ring pinches the dividing cell into the two daughter 
+cells. This contractile ring is formed by which of 
+the following structures? 
+(A) Centrioles 
+(B) Microtubules 
+(C) Microfilaments 
+(D) Z discs 
+(E) The spindle apparatus 
+ 
+11. If an organic acid accumulates in a plant cell  
+in sufficient quantities to affect the cell?s pH 
+significantly, then the acid will probably be  
+stored in the 
+(A) cytosol 
+(B) vacuole 
+(C) nucleus 
+(D) mitochondria 
+(E) chloroplasts 
+ 
+12. Which of the following information can be gained 
+from determining the primary structure of an 
+enzymatically active protein? 
+(A) The amino acids in the active site can be 
+positively identified. 
+(B) The molecular weight of the protein can be 
+accurately established. 
+(C) The temperature at which thermal inactivation 
+will occur can be accurately established. 
+(D) An estimate of Km can be calculated. 
+(E) An estimate of Vmax can be calculated. 
+ 
+13. Which of the following is correct concerning the 
+Km of an enzyme? 
+(A) It depends on the dissociation constant for the 
+product of the reaction. 
+(B) It defines the Vmax of the enzyme-catalyzed 
+reaction. 
+(C) It is a measure of the number of substrate 
+molecules converted to product in a specific 
+unit of time. 
+(D) It is the substrate concentration at which the 
+velocity of the reaction is equal to 1/2 Vmax. 
+(E) It is measured in units of moles per minute. 
+ 
+14. Which of the following types of enzymes are 
+usually subjected to direct feedback inhibition  
+by an intracellular metabolite? 
+(A) Enzymes catalyzing the last step in a 
+catabolic pathway 
+(B) Enzymes catalyzing the last step in a 
+biosynthetic pathway 
+(C) Enzymes catalyzing the first step in a 
+biosynthetic pathway 
+(D) Enzymes localized in the extracellular matrix 
+(E) Enzymes localized in lysosomes 
+ 
+15. Which of the following cellular structures  
+serve similar functions in plants and animals, 
+respectively? 
+ Plants Animals
+ 
+(A) Tight junctions Gap junctions 
+(B) Desmosomes Gap junctions 
+(C) Plasmodesmata Gap junctions 
+(D) Plasmodesmata Desmosomes 
+(E) Plasmodesmata Tight junctions 
+ 
+16. Increased calcium influx across the membranes of 
+presynaptic neurons has which of the following 
+effects on synaptic transmission? 
+(A) Increased release of neurotransmitter 
+(B) Increase in voltage-dependent potassium 
+efflux 
+(C) Decreased release of neurotransmitter 
+(D) Decrease in voltage-dependent potassium 
+efflux 
+(E) Closure of the acetylcholine-gated channel 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+17
+ 
+ 
+ 
+17. The tubulin heterodimer depicted above is located 
+within a protofilament of an intact microtubule. 
+To which site is the  portion of its neighboring 
+heterodimer (within the same protofilament) 
+attached? 
+(A) L 
+(B) M 
+(C) N 
+(D) O 
+(E) P 
+ 
+ 
+ 
+18. During meiosis, homologous chromosomes  
+pair up along their lengths. The most plausible 
+explanation for the karyotype structure shown 
+above is that 
+(A) portions of non-homologous chromosomes 
+have been translocated 
+(B) one of the two homologous chromosomes  
+has suffered a deletion 
+(C) one of the two homologous chromosomes  
+has undergone an inversion 
+(D) the homologous chromosomes have each 
+suffered a gene duplication 
+(E) one of a pair of homologous chromosomes 
+has been lost via nondisjunction 
+ 
+19. Which of the following best explains how the 
+activity of an enzyme is regulated by an allosteric 
+inhibitor? 
+(A) Direct competition between the binding of 
+the inhibitor and the binding of a substrate 
+to the active site 
+(B) Induction of a conformational change in the 
+enzyme by the inhibitor, which affects 
+enzyme activity 
+(C) Irreversible binding of the inhibitor to the 
+enzyme, which affects enzyme activity 
+(D) Inhibition of the transcription of the gene 
+encoding the enzyme by the inhibitor 
+(E) Denaturation of the protein induced by 
+binding of the inhibitor 
+ 
+20. A species of plant is discovered in which 
+individual plants produce either white or purple 
+flowers. True breeding plants that have short 
+stems with white flowers are crossed with true 
+breeding plants that have tall stems and purple 
+flowers. The resulting offspring all have tall stems 
+with purple flowers. When one of these tall, 
+purple-flowered offspring is crossed with a short, 
+white-flowered plant, plants with the following 
+characteristics were obtained in equal proportions. 
+White flowers on tall stems 
+Purple flowers on tall stems 
+White flowers on short stems 
+Purple flowers on short stems
+ 
+  Given the information above, which of the 
+following is most likely true? 
+(A) The white-flower allele and the tall-stem 
+allele occur at the same locus. 
+(B) The genes for flower color and stem length 
+are closely linked. 
+(C) Extensive crossing-over between the  
+purple-flower allele and the white-flower 
+allele has occurred. 
+(D) The genes for flower color and stem length 
+are not linked. 
+(E) Independent assortment does not occur in  
+this species of plant. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+18
+ 
+ 
+21. An X-linked recessive gene produces red-green 
+color blindness in humans. A woman with normal 
+color vision whose father was color-blind marries 
+a color-blind man. What is the probability that 
+their son will be color-blind? 
+(A) 0 
+(B) 1/4 
+(C) 1/2 
+(D) 3/4 
+(E) 1/1 
+ 
+22. Which of the following is NOT a correct statement 
+about the process of meiosis? 
+(A) Meiosis I separates chromosomes; meiosis II 
+separates chromatids. 
+(B) Synapsis and crossing-over occur during 
+meiosis I. 
+(C) Kinetochores are responsible for aligning 
+chromatids during meiosis I. 
+(D) Karyokinesis occurs before cytokinesis. 
+(E) Segregation of unlinked alleles occurs during 
+meiosis. 
+ 
+23. Endoplasmic reticulum (ER) is the site of all of 
+the following EXCEPT 
+(A) drug detoxification by means of mixed-
+function oxidases 
+(B) synthesis of proteins that are secreted from 
+the cell 
+(C) N-linked glycosylation of newly formed 
+polypeptides 
+(D) Ca2+ storage in muscle tissues 
+(E) hydrolytic activities carried out by acid 
+hydrolases 
+ 
+24. Exons of a gene are defined as 
+(A) the untranslated regions of the corresponding 
+mRNA 
+(B) regions in the corresponding mRNA that are 
+involved in initiation of transcription 
+(C) regions that are not transcribed by RNA 
+polymerase 
+(D) regions that are excised from the corre-
+sponding protein after it is synthesized 
+(E) regions that remain in the corresponding 
+mRNA after splicing 
+ 
+25. In nerves, vesicles can move the length of an  
+axon at a rate that far exceeds that which would 
+be predicted for simple diffusion. Which of the 
+following models best explains vesicular 
+movement in these cells? 
+(A) Depolymerization of actin microfilaments 
+attached to vesicles pulls the vesicles 
+toward the site of depolymerization. 
+(B) Vesicles are propelled by fluid movement 
+generated by changes in osmotic potential 
+within the cells. 
+(C) Vesicles are moved by alternate contraction 
+and relaxation of actin-myosin ?muscle? 
+complexes. 
+(D) Vesicles, by virtue of their net negative 
+charge, are attracted to positively charged 
+regions of the cell. 
+(E) Vesicles are attached to the protein kinesin, 
+which slides along microtubules by an ATP-
+dependent process. 
+ 
+26. Additions or deletions of bases in the nucleotide 
+sequence of a structural gene most often result in 
+(A) an altered sequence of amino acids in the 
+protein that the gene encodes 
+(B) insertion of a new intron into the coding 
+sequence of the gene 
+(C) decreased histone binding 
+(D) decreased excision repair 
+(E) increased levels of mRNA production 
+ 
+27. Radioactive cytosine was added to an actively 
+growing culture of E. coli bacteria. Which of the 
+following would be the result if a cell replicated 
+once in the presence of this radioactive base? 
+(A) One of the daughter cells, but not the other, 
+would have radioactive DNA. 
+(B) Neither of the two daughter cells would  
+have radioactive DNA. 
+(C) Both daughter cells would have  
+radioactive DNA. 
+(D) Radioactive cytosine would pair with 
+nonradioactive adenine during DNA 
+replication. 
+(E) DNA replication would not occur, because 
+two radioactive bases are required for 
+proper pairing. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+19
+ 
+ 
+28. Which of the following is an anticodon? 
+(A) The part of a DNA molecule that codes for 
+chain termination 
+(B) A 3-nucleotide sequence of an mRNA 
+molecule 
+(C) A specific part of a tRNA molecule 
+(D) A nucleotide triplet of an rRNA molecule 
+(E) The portion of a ribosomal subunit that 
+interacts with aminoacyl-tRNA synthetase 
+ 
+29. Drosophila lines with large, sometimes multiple, 
+inversions in one or more chromosomes are often 
+used in maintaining laboratory stocks because  
+of which of the following reasons? 
+(A) Inversions maximize the process of 
+chromosome pairing within and near  
+the inversion. 
+(B) Inversions in the male inhibit fertilization  
+of non-inversion-containing females. 
+(C) Inversion heterozygotes produce a greater 
+number of viable offspring. 
+(D) Inversion heterozygotes usually yield 
+inviable gametes or zygotes when  
+crossing-over occurs within the inversion. 
+(E) Inversion heterozygotes produce a greater 
+number of recombinant offspring. 
+ 
+30. Chimeric mice can be generated by injecting a 
+cell from an early embryo into a blastocyst of 
+another genotype. The fact that the single injected 
+cell can contribute to many tissues of the chimeric 
+mouse has led to the conclusion that cells of the 
+early embryo are 
+(A) differentiated 
+(B) motile 
+(C) transformed 
+(D) transduced 
+(E) totipotent 
+ 
+31. In Drosophila, regions of polytene chromosomes 
+show puffs at different times in development. 
+Studies with labeled compounds have indicated 
+that the localization to the puffs of tritiated 
+(A) thymidine indicates that DNA is being 
+synthesized 
+(B) thymidine indicates that RNA is being 
+synthesized 
+(C) leucine indicates that new proteins are being 
+synthesized 
+(D) uridine indicates that DNA is being 
+synthesized 
+(E) uridine indicates that RNA is being 
+synthesized 
+ 
+32. In Drosophila, a homeotic mutation would be 
+the most likely explanation for which of the 
+following? 
+(A) A decrease in the number of parasegments 
+(B) A leg developing where an antenna would 
+normally be located 
+(C) Forked and dense body bristles instead of 
+straight and sparse ones 
+(D) A significantly shorter life span 
+(E) An increase in wing length 
+ 
+33. Humoral immunity is characterized by all of the 
+following EXCEPT 
+(A) a memory response 
+(B) antigen-antibody interaction 
+(C) the synthesis of immunoglobulins 
+(D) the production of plasma cells 
+(E) the production of cytotoxic T cells 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+20
+ 
+ 
+34. The immune system in mammals can rapidly 
+respond to foreign molecules because of the 
+enormous variety of B lymphocytes, each with 
+different cell-surface antibodies that can bind 
+specific antigens. Which of the following best 
+explains the principal mechanism by which the 
+diversity of lymphocytes arises? 
+(A) During the development of B lymphocytes, 
+rearrangements of the DNA coding for the 
+various domains of the antibody molecule 
+occur. 
+(B) During the development of B lymphocytes, 
+different introns are spliced out of antibody 
+mRNA?s. 
+(C) mRNA?s for all 1015 types of antibodies are 
+produced by each B lymphocyte; however, 
+only one type of mRNA gets translated. 
+(D) All 1015 types of antibodies are produced by 
+each B lymphocyte; specific proteases 
+degrade all but one type. 
+(E) Different B lymphocytes carry different 
+transcription activators, so that only one 
+specific mRNA (and therefore, antibody) is 
+produced by each lymphocyte. 
+ 
+35. Hybridization between mature mRNA and DNA 
+can identify introns in eukaryotic genes. When 
+mature mRNA produced by the insulin gene is 
+hybridized with denatured chromosomal DNA, 
+which of the following will most likely be 
+observed? 
+(A) No hybridization would occur under any 
+conditions. 
+(B) Hybridization of mRNA would occur with 
+random sections of chromosomal DNA. 
+(C) Hybridization of mRNA with DNA would 
+occur in a continuous stretch that is equal  
+to the length of the mRNA. 
+(D) Hybridization of mRNA with DNA would 
+occur but with many single-stranded loops 
+of DNA. 
+(E) Hybridization of mRNA with DNA would 
+occur but with many single-stranded loops 
+of mRNA. 
+ 
+36. In adult mammals, the primary site for the final 
+stage of differentiation of T  lymphocytes is the 
+(A) spleen 
+(B) bone marrow 
+(C) bursa of Fabricius 
+(D) thymus 
+(E) liver 
+ 
+37. In the DNA sequence 5 CGA TCG GCT 3 ,  
+which of the following is considered a transition-
+type mutation? 
+(A) 5  CGA CCG GCT 3  
+(B) 5  CGA TGG CT 3  
+(C) 5  CGA TCG CCT 3  
+(D) 5  CGA TCG GCA 3  
+(E) 5  CGA UCG GCU 3  
+ 
+38. Artificially acquired passive immunity involves 
+(A) vaccination with attenuated virus or bacteria 
+(B) the transfer of antibodies, as from a mother to 
+her fetus 
+(C) the production of a cellular immune response 
+or antibodies  
+(D) antibody formation as a result of exposure to 
+antigens in the environment 
+(E) injection of preformed antibodies such as 
+immunoglobulin 
+ 
+39. Which of the following is true concerning animal 
+retroviruses? 
+(A) They must replicate during the S phase of  
+the cell cycle. 
+(B) They require an RNA-dependent DNA 
+polymerase. 
+(C) They are nonenveloped viruses. 
+(D) The virions have double-stranded RNA 
+genomes. 
+(E) Replication of their genome occurs entirely 
+within the host nucleus. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+21
+ 
+ 
+40. In Escherichia coli, the synthesis of tryptophan  
+is controlled by the tryptophan operon that is 
+repressed in the presence of excessive tryptophan. 
+When a mutant strain that has lost the regulatory 
+gene of the tryptophan operon is placed in a 
+medium that contains all nutrients the cells need 
+to grow except tryptophan, which of the following 
+will occur? 
+(A) The cells will continue to grow even  
+though excess tryptophan is synthesized. 
+(B) The cells will grow until excessive 
+tryptophan arrests the expression of the 
+operon. 
+(C) The cells will not grow until enough 
+tryptophan has been synthesized to activate 
+the corepressor. 
+(D) The cells will never grow unless tryptophan 
+is added to the medium. 
+(E) The cells will not grow even when 
+tryptophan is added to the medium. 
+ 
+41. Which of the following is LEAST likely to cause 
+a proto-oncogene to become an oncogene? 
+(A) A gene is incorporated into a retroviral 
+genome. 
+(B) A gene is expressed at an inappropriate time. 
+(C) A gene is moved close to an enhancer, 
+causing excess product to be made. 
+(D) A gene is truncated, yielding a protein with 
+modified activity. 
+(E) A gene is moved into centromeric 
+heterochromatin, silencing its transcription. 
+ 
+42. The physiological role of restriction 
+endonucleases is to 
+(A) allow the in vitro construction of recombinant 
+DNA molecules 
+(B) methylate host DNA 
+(C) remove RNA primer during DNA synthesis 
+(D) allow mapping of gene location 
+(E) cleave foreign DNA molecules that enter  
+the cell 
+ 
+ 
+ Type I:  slow, oxidative, red 
+ Type II A:  fast, oxidative, red 
+ Type II B:  fast, glycolytic, white 
+ 
+43. The muscle cells listed above will most likely 
+fatigue in what order, from first to last? 
+ First Last
+ 
+(A) Type I Type II A Type II B 
+(B) Type I Type II B Type II A 
+(C) Type II A Type I Type II B 
+(D) Type II B Type II A Type I 
+(E) All three types will fatigue at the same rate. 
+ 
+44. Members of which of the following terrestrial 
+groups have the most water-permeable body 
+covering? 
+(A) Insecta 
+(B) Reptilia 
+(C) Aves 
+(D) Arachnida 
+(E) Amphibia 
+ 
+45. Which of the following is found in mammals 
+during male gamete formation? 
+(A) Two successive centrosome duplications 
+during meiosis 
+(B) Accumulation of yolk during gamete 
+formation 
+(C) Generation of a polar body during meiosis I 
+(D) Formation of four functional gametes from a 
+primary germ cell 
+(E) Temporary arrest of meiosis at the  
+metaphase I stage 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+22
+ 
+ 
+46. During the evolution of life on Earth, the photo-
+synthetic organisms initially responsible for 
+raising atmospheric oxygen concentrations from 
+less than 1 percent to about 20 percent were 
+(A) cyanobacteria 
+(B) archaea 
+(C) diatoms 
+(D) flowering plants 
+(E) mosses 
+ 
+47. Which of the following statements about circadian 
+rhythms is correct? 
+(A) They are expressed during cell division only. 
+(B) They occur only in mammals. 
+(C) They are not found in humans. 
+(D) They are generated exogenously. 
+(E) They have a periodicity of about 24 hours. 
+ 
+48. The receptive surface for pollen on an angiosperm 
+flower is the  
+(A) anther 
+(B) corolla 
+(C) ovary 
+(D) style 
+(E) stigma 
+ 
+49. Immediately after fertilization in animals, the first 
+structural and biochemical changes in the egg are 
+initiated by 
+(A) new gene transcription 
+(B) the release of Ca2+ from internal reservoirs 
+(C) the initiation of DNA synthesis 
+(D) a lowering of cytosolic pH 
+(E) a sudden drop in ATP levels 
+ 
+50. Chickadees were given an opportunity to store 
+seeds in 72 possible storage sites consisting of 
+holes drilled in small trees that had been placed  
+in an aviary. Typically, the seeds were placed  
+in only 4 or 5 storage sites. The chickadees were 
+then removed from the aviary, the seeds removed 
+from the storage sites, and each hole covered.  
+A day later, the chickadees were returned to the 
+aviary and they spent nearly 5 times as long 
+pulling at the covers on storage sites than at the 
+covers on sites where they had not stored food. 
+This experiment indicates that chickadees 
+(A) use auditory cues to find stored food 
+(B) have a spatial memory that enables them  
+to locate storage sites 
+(C) have a propensity to inspect and pull at the 
+covers wherever they are located 
+(D) cannot find a storage site if they cannot see 
+the food in it 
+(E) rely on the visual cues provided by the  
+opening to a storage site to locate  
+stored food 
+ 
+51. Bird species X stores seeds in a large number of 
+separate caches in the summer and then locates 
+the caches in the winter. Compared with a bird 
+species that does not store seeds, species X can 
+be expected to have a proportionately larger 
+(A) cerebellum 
+(B) hippocampus 
+(C) optic lobe 
+(D) hypothalamus 
+(E) medulla 
+ 
+52. Functionally, Hensen?s node is to a chick embryo 
+as the 
+(A) animal pole is to a frog embryo 
+(B) blastopore dorsal lip is to a frog embryo 
+(C) ectoderm is to a bird embryo 
+(D) vegetal pole is to a frog embryo 
+(E) anterior pole cells are to a Drosophila 
+embryo 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+23
+ 
+ 
+ 
+53. The oxygen consumption of marine crabs acclimated to either 
+10?C or 20?C was measured at environmental temperatures of 
+5?C to 25?C to produce the following graph. 
+ 
+  Which of the following can be correctly concluded from the 
+information in the graph? 
+(A) Acclimation temperature does not affect the rate of 
+oxygen consumption. 
+(B) Crabs have higher rates of oxygen consumption when 
+measured at 10?C than when measured at 20?C. 
+(C) Oxygen consumption is higher in the 10?C-acclimated 
+crabs than in the 20?C-acclimated crabs at each test 
+temperature. 
+(D) Acclimation to a high temperature induces a high rate of 
+oxygen consumption at all test temperatures. 
+(E) This pattern of acclimation produces complete metabolic 
+compensation. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+24
+ 
+ 
+54. The outermost tissue of a tree trunk that is 6 feet 
+in diameter would most likely be 
+(A) epidermis 
+(B) cork 
+(C) cortex 
+(D) phloem 
+(E) xylem 
+ 
+55. Which of the following is the tissue that is most 
+important in plant survival during droughts and 
+why? 
+(A) Vascular tissue, because the phloem keeps 
+the plant supplied with water 
+(B) Vascular tissue, because the xylem can store 
+considerable amounts of water 
+(C) Ground tissue, because water can be stored in 
+the sclerenchyma for use during droughts 
+(D) Ground tissue, because the parenchymal 
+tissue provides hormonal cues to stop water 
+loss 
+(E) Epidermal tissue, because it is covered with a 
+waxy cuticle and includes drought-
+responsive stomata 
+ 
+ 
+ 
+ 
+56. Which of the following cells or tissues are 
+characteristically found in the roots, but not  
+the stems, of angiosperms? 
+(A) Parenchyma and collenchyma 
+(B) Epidermis and cork 
+(C) Pericycle and endodermis 
+(D) Vessel elements and tracheids 
+(E) Sieve tube members and companion cells 
+ 
+Stomatamm?2 on Leaves Species 
+Upper Epidermis Lower Epidermis
+ 
+Encelia farinosa 248 355 
+Haworthia attenuata 15 25 
+Bursera latiflora 0 272 
+Scilla violaceae 3 35 
+Agave deserti 40 32 
+ 
+57. The data above were collected from plants growing in the 
+desert of southwest Arizona. Which species probably under-
+goes the most evaporative cooling in this environment? 
+(A) Encelia farinosa 
+(B) Haworthia attenuata 
+(C) Bursera latiflora 
+(D) Scilla violaceae 
+(E) Agave deserti 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+25
+ 
+ 
+58. A piece of prospective belly epidermis of a newt 
+neurula-stage embryo is grafted to the prospective 
+mouth region of a frog neurula, replacing the frog 
+epidermal tissue at that spot. The grafted embryo 
+continues to develop and forms a newt mouth and 
+teeth at the position of the graft. This result is 
+consistent with which of the following? 
+(A) Newt tissue develops autonomously 
+according to its original fate, despite its new 
+location in the frog embryo. 
+(B) Newt tissue dedifferentiates whenever it is 
+grafted. 
+(C) Tissues of the frog neurula induce the newt 
+tissue to express frog-specific genes that it 
+would not normally express. 
+(D) The mouths and teeth of frogs and newts are 
+the same in type. 
+(E) The frog tissues of the neurula induce the 
+newt tissue to form mouthparts. 
+ 
+59. Some chemoautotrophic bacteria living around 
+deep-sea vents obtain their energy by converting 
+(A) alcohols to aldehydes 
+(B) hydrogen sulfide to elemental sulfur 
+(C) carbon dioxide and hydrogen to methane 
+(D) iron oxides to iron  
+(E) nitrogen to ammonia 
+ 
+60. The ability of a desert rodent?s kidneys to form 
+highly concentrated urine is largely attributable to  
+(A) a high glomerular filtration rate 
+(B) the production of a very salty ultrafiltrate in 
+the glomerulus 
+(C) the ability of cells lining the proximal 
+convoluted tubule to absorb water 
+(D) long loops of Henle that pass through tissues 
+of increasing salt concentrations 
+(E) distal convoluted tubules that are 
+impermeable to water 
+ 
+61. In a plant growing vigorously under normal 
+conditions without water stress, in which tissue 
+would you expect to find the lowest (most 
+negative) water potential? 
+(A) Root epidermal cell 
+(B) Root cortical parenchyma 
+(C) Root endodermis 
+(D) Stem xylem 
+(E) Leaf mesophyll parenchyma 
+ 
+62. In organisms with closed circulatory systems, 
+fluid leaves the blood of capillary networks at  
+the arterial end and returns to blood at the venous 
+end for which of the following reasons? 
+(A) Osmotic pressure increases prior to 
+dehydration. 
+(B) Osmotic pressure difference dominates at the 
+arterial end; hydrostatic pressure difference 
+dominates at the venous end. 
+(C) Hydrostatic pressure difference dominates at 
+the arterial end; osmotic pressure difference 
+dominates at the venous end. 
+(D) Hydrostatic pressure drops during diastole. 
+(E) Hydrostatic pressure difference dominates at 
+both the arterial and the venous ends. 
+ 
+63. Which of the following mineral nutrients is 
+directly involved in light absorption during 
+photosynthesis? 
+(A) Zn2+
+ 
+(B) Mn2+
+ 
+(C) Cu2+
+ 
+(D) Mg2+
+ 
+(E) Ca2+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+26
+ 
+ 
+64. Most of the dry mass of a plant is derived from 
+(A) minerals from the soil 
+(B) carbon from the soil 
+(C) carbon from the atmosphere 
+(D) oxygen from the atmosphere 
+(E) oxygen from soil water 
+ 
+65. Chlorophylls a and b are two pigments primarily 
+responsible for the capture and processing of solar 
+energy in the light reactions of photosynthesis. 
+Which of the following best explains why having 
+both chlorophyll a and b benefits a plant more 
+than having one? 
+(A) Chlorophylls a and b have slightly different 
+absorption spectra; this expands the range of 
+wavelengths of light that can be captured 
+for photosynthesis. 
+(B) Chlorophyll a is primarily involved in 
+electron transfer; chlorophyll b is mainly 
+involved in the capture of light energy. 
+(C) Chlorophyll a captures all the solar energy; 
+chlorophyll b serves to protect  
+chlorophyll a from overexcitation. 
+(D) Chlorophyll b captures all the solar energy; 
+since chlorophyll a is a precursor to 
+chlorophyll b, a pool of chlorophyll a must 
+be maintained. 
+(E) Chlorophyll a resides in the thylakoid 
+membranes and captures light energy there; 
+chlorophyll b is soluble in the chloroplast 
+stroma and captures light energy there. 
+ 
+66. The Calvin cycle, the ?dark reactions? or carbon 
+fixation reactions of photosynthesis, cannot occur 
+at night in a living plant. Which of the following 
+best describes why this is true? 
+(A) The stomata are incapable of opening at 
+night, thus CO2 cannot enter the leaf. 
+(B) The reactions of the Calvin cycle are depen-
+dent on light reactions for high-energy 
+compounds. 
+(C) Several enzymes necessary for Calvin cycle 
+activity have been degraded during the day 
+and must be replaced. 
+(D) Light is required to transport the water 
+necessary for the cycle. 
+(E) Cooler temperatures at night slow enzyme 
+activity and rates of substrate diffusion. 
+ 
+67. If the egg cell of a megagametophyte of a flow-
+ering plant has a marker gene designated as X 
+and the sperm cell of a compatible pollen grain 
+has a marker gene designated as Y, which of the 
+following represents the endosperm that will 
+result from fertilization in most flowering plants? 
+(A) XX 
+(B) YY 
+(C) XY 
+(D) XXY 
+(E) YYX 
+ 
+68. Ca2+ is important in skeletal muscle contraction 
+because it 
+(A) activates the myosin ATPase by binding to it 
+(B) binds to troponin to remove a constant 
+inhibition of cross-bridge attachment 
+(C) prevents the formation of bonds between the
+ 
+myosin cross bridges and the actin filament 
+(D) is required to detach the myosin head from 
+the actin filament 
+(E) causes muscle relaxation at intracellular 
+concentrations of Ca2+ higher than 10?6M 
+ 
+69. Which of the following structures present in the 
+embryos of higher plants develops into the primary 
+root of the seedling? 
+(A) Epicotyl 
+(B) Hypocotyl 
+(C) Cotyledon 
+(D) Radicle 
+(E) Endosperm 
+ 
+70. Which of the following statements about the 
+motility of Paramecium is true? 
+(A) Paramecium employs a pseudopod. 
+(B) Paramecium has no structures for motility. 
+(C) Paramecium uses a single flagellum. 
+(D) Paramecium uses a pair of flagella. 
+(E) Paramecium uses cilia. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+27
+ 
+ 
+71. In the cellular slime molds, the aggregation of 
+myxamoebas is initiated by 
+(A) low light intensities 
+(B) high pH 
+(C) uptake of chloride ion 
+(D) secretion of cyclic AMP 
+(E) elevated temperature 
+ 
+72. A unicellular eukaryote that contains chlorophyll a 
+(but no chlorophyll b), that functions as one of 
+the major photosynthetic autotrophs in open-ocean 
+ecosystems, and that has cell walls that contain 
+silica is a 
+(A) red alga 
+(B) green alga 
+(C) dinoflagellate 
+(D) euglenoid 
+(E) diatom 
+ 
+73. Dikaryotic hyphae are a kind of fungal tissue that 
+(A) contain two chromosomes 
+(B) form after plasmogamy and before 
+karyogamy 
+(C) are only a short stage of the life cycle of the 
+Basidiomycota 
+(D) are not found in the Ascomycota 
+(E) are formed by the fusion of two nuclei 
+ 
+74. Saprophytic fungi obtain their nutrition by 
+(A) taking food into their gastrovascular cavity, 
+and then digesting and absorbing it 
+(B) making food by chemosynthesis 
+(C) secreting digestive enzymes into the 
+environment and then absorbing the 
+digestive products 
+(D) using their amoeboid cells in phagocytosis 
+(E) forming a parasitic relationship with soil 
+bacteria 
+ 
+75. An animal with a coelom, jointed appendages, 
+and metameric segmentation would be classified 
+in the phylum 
+(A) Mollusca 
+(B) Cnidaria 
+(C) Platyhelminthes 
+(D) Arthropoda 
+(E) Chordata 
+ 
+76. Which of the following animal phyla is 
+diploblastic, that is, exhibits only two embryonic 
+germ layers? 
+(A) Rotifera 
+(B) Mollusca 
+(C) Nematoda 
+(D) Platyhelminthes 
+(E) Cnidaria 
+ 
+77. Which of the following describes members of 
+both the Bryophyta and the Pteridophyta?  
+(A) The absence of true roots  
+(B) The absence of swimming sperm 
+(C) The absence of meristematic growth 
+(D) The presence of chlorophyll 
+(E) The dominance of the haploid phase of the 
+life cycle 
+ 
+78. In sporophytes of some mosses, a ring of 
+peristome teeth regulates 
+(A) sperm release 
+(B) spore dispersal 
+(C) spore germination 
+(D) asexual reproduction 
+(E) rhizoid production 
+ 
+79. Which of the following characterizes dicoty-
+ledonous plants? 
+(A) Their flowers always have superior ovaries. 
+(B) Their seeds usually contain two embryos. 
+(C) Their stems have scattered vascular bundles. 
+(D) Their leaves usually have parallel veins. 
+(E) Their flowers usually have parts in multiples 
+of four or five. 
+ 
+80. All of the following allow hermaphroditic animal 
+species to avoid inbreeding EXCEPT 
+(A) functioning as only one sex during mating 
+(B) releasing eggs and sperm simultaneously 
+(C) being protandrous 
+(D) being protogynous 
+(E) changing sex 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+28
+ 
+ 
+81. All of the following occur during the cleavage 
+stage of animal development EXCEPT 
+(A) an increase in the nuclear-to-cytoplasmic 
+ratio of the cells 
+(B) an increase in the number of blastomeres 
+(C) an increase in the mass of the embryo 
+(D) an increase in the surface-to-volume ratio of 
+the cells 
+(E) rapid cell divisions  
+ 
+82. Plants that utilize photosynthesis via the C4 
+pathway differ from those that use the C3 pathway 
+in that at higher temperatures the C4 plants  
+(A) are less productive per unit area of leaf  
+(B) are more productive per unit area of leaf 
+(C) can tolerate lower light conditions better 
+(D) carry on high levels of photorespiration 
+(E) use much more water for transpiration per 
+unit of photosynthesis 
+ 
+83. A lateral root forms on the primary root of a 
+typical herbaceous dicot by 
+(A) continued growth of a root hair on an 
+epidermal cell 
+(B) lateral outgrowth of xylem 
+(C) lateral outgrowth from the root apical 
+meristem 
+(D) activation of a lateral bud at a node on the 
+surface of the root 
+(E) activation of an area in the pericycle to form 
+an apical meristem 
+ 
+84. The leaves of grasses can continue to elongate 
+following mowing or grazing due to actively 
+growing tissue at the base of the leaf blades and 
+sheaths called 
+(A) apical meristems 
+(B) lateral cambium 
+(C) intercalary meristems 
+(D) axillary buds 
+(E) interfascicular parenchyma 
+ 
+85. The amount of energy entering a food chain 
+depends on the 
+(A) direction of energy flow in the system 
+(B) efficiency of energy recycling in the system 
+(C) biomass of carnivores and their efficiency in 
+locating and capturing animal prey 
+(D) biomass of heterotrophs and their efficiency 
+in transforming plant tissue into animal 
+tissue 
+(E) biomass of autotrophs and their efficiency in 
+transforming solar energy into chemical 
+energy 
+ 
+86. Two plant species co-occur in a prairie. Species X 
+always occurs near species Y. However, species Y 
+often occurs in isolation from species X and 
+produces more seeds when alone than when 
+growing next to species X. Which of the 
+following interactions between species X and Y 
+could generate this pattern? 
+(A) Competition, in which Y is superior to X in 
+accumulating resources 
+(B) Mutualism, in which both X and Y benefit 
+by exchanging resources 
+(C) Parasitism, in which X benefits from 
+resources produced by Y and reduces the 
+growth of Y by doing so 
+(D) Commensalism, in which X benefits from 
+resources produced by Y but does not affect 
+the growth of Y by doing so 
+(E) Amensalism, in which X gains no benefit 
+from Y but reduces the growth of Y 
+ 
+87. In the endosymbiont hypothesis for the origin  
+of eukaryotic cells, which of the following is 
+proposed as the role of cyanobacteria? 
+(A) They become the chlorophyll of plant cells. 
+(B) They are the ancestor of mitochondria. 
+(C) They are the ancestor of the chloroplasts. 
+(D) They lose their DNA and become the 
+vacuoles of plant cells. 
+(E) They lose their photosynthetic pigments and 
+become the nuclei of eukaryotes. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+29
+ 
+ 
+88. The process of speciation can be prevented by 
+(A) genetic differentiation 
+(B) geographical barriers 
+(C) inhibition of gene exchange 
+(D) gene flow 
+(E) behavioral barriers 
+ 
+89. Small body size often allows animals to exploit 
+desert habitats because it 
+(A) decreases the ratio of surface area to volume 
+and hence the tendency to lose water 
+(B) promotes heat gain 
+(C) enhances thermal inertia 
+(D) enables exploitation of favorable 
+microhabitats 
+(E) enables prolonged reliance on internal water 
+stores 
+ 
+90. All of the following are strategies used by 
+potential prey to avoid predation EXCEPT 
+(A) mimetic coloration 
+(B) erratic flight 
+(C) cryptic coloration 
+(D) lekking 
+(E) alarm signals 
+ 
+91. The amount of genotypic variation in a natural 
+population can be increased by all of the following 
+EXCEPT 
+(A) mutation 
+(B) recombination 
+(C) immigration 
+(D) hybridization 
+(E) inbreeding 
+ 
+ 
+92. The graph above illustrates a simplified description 
+of the effect of disturbance on species diversity. 
+Which of the following best explains the graph? 
+(A) Productivity is enhanced at intermediate 
+levels of disturbance. 
+(B) Stabilizing selection occurs at intermediate 
+levels of disturbance. 
+(C) The interaction of physical factors and 
+biological competition increases diversity at 
+intermediate levels of disturbance. 
+(D) Directional selection is enhanced by 
+increased disturbance. 
+(E) Food chains are disrupted at high and low 
+levels of disturbance. 
+ 
+93. Plants having C4 metabolism are common in all 
+of the following regions EXCEPT 
+(A) taiga 
+(B) warm deserts 
+(C) tropical grasslands 
+(D) tropical agricultural areas 
+(E) deserts with limited trace elements 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+30
+ 
+ 
+ 
+ 
+94. The graphs above show that the relationship between 
+atmospheric CO2 and mean global temperature is 
+(A) a positive correlation 
+(B) an inverse relationship 
+(C) a cause-and-effect relationship 
+(D) evidence of an impending ice age 
+(E) no relationship at all 
+ 
+ 
+ 
+ 
+95. Which of the following is NOT a hypothesis  
+explaining the advantage of group living? 
+(A) Vigilance effect 
+(B) Dilution effect 
+(C) Group foraging 
+(D) Group defense 
+(E) Parasite avoidance 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+31
+ 
+ 
+ 
+ 
+96. The graphs above show the survivorship and fecundity curves 
+for two congeneric species, X and Y, that are found in 
+different habitats. Of the two species, Y is more likely to 
+(A) come from a disturbed habitat in early succession 
+(B) have a longer generation time 
+(C) have a lower fecundity 
+(D) have a longer life span 
+(E) have low dispersal ability 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+32
+ 
+ 
+97. If average family size for the human population 
+could be immediately reduced to two children per 
+couple, the population would 
+(A) remain constant 
+(B) begin an immediate decline 
+(C) continue to increase for 20 to 40 years 
+(D) continue to increase indefinitely 
+(E) crash within 5 years 
+ 
+ 
+ 
+98. The figure above illustrates the relationship 
+between population density in the present 
+generation (Nt) and population density in the  
+next generation (Nt+1). The dashed reference  
+line has a slope of 1. Which of the following 
+represents equilibrium density of this population? 
+(A) I 
+(B) II 
+(C) III 
+(D) IV 
+(E) There is no equilibrium. 
+ 
+99. Reproductive value (Vx) calculated from  
+population life-table data provides a measure  
+of the 
+(A) contribution of an individual of age x to the 
+future growth of the population relative to  
+a newborn?s contribution 
+(B) average number of offspring produced by  
+a female during age interval x 
+(C) proportion of available resources allocated to 
+reproduction in individuals in population x 
+(D) probability of offspring surviving to age  
+class x 
+(E) intrinsic growth rate of the population 
+ 
+ 100. Life-history characteristics associated with  
+K-selected organisms include 
+(A) rapid reproductive rates, short generation 
+times, and large body size 
+(B) repeated reproduction, few progeny, and 
+large body size 
+(C) inhabiting early successional state commu-
+nities, rapid maturation rates, and numerous 
+large offspring 
+(D) inhabiting climax communities, many small 
+offspring, and short life span 
+(E) poor competitive ability, rapid maturation 
+rates, and short life span 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+33
+ 
+ 
+dN K N
+rNdt K  
+ 101. The logistic equation above is used to describe the 
+rate of change of a population, N, with time, t, 
+where r is the intrinsic rate of increase and K is 
+the carrying capacity. Which of the following 
+statements is true for this equation? 
+(A) For a given population, r is variable. 
+(B) For a given environment, K is variable. 
+(C) As N approaches K, dN/dt approaches 0. 
+(D) As N approaches K, dN/dt approaches K. 
+(E) As N approaches K, dN/dt approaches r. 
+ 
+ 102. Which of the following biomes is characterized 
+by a wet, mild winter and a warm, dry summer? 
+(A) Taiga 
+(B) Tundra 
+(C) Chaparral 
+(D) Tropical rain forest 
+(E) Temperate deciduous forest 
+ 
+ 103. If a species is a keystone predator, then its removal 
+from a community should 
+(A) decrease population size of the predator?s 
+preferred prey 
+(B) decrease species diversity in the prey 
+community 
+(C) decrease productivity of the predator?s 
+preferred prey 
+(D) increase species diversity in the prey 
+community 
+(E) increase the number of trophic levels 
+ 
+ 
+ 104. The diagram above depicts three general types of 
+survivorship curves. Only the form of the curve is 
+important, not its absolute scale. Which of the 
+following statements is LEAST likely to be true? 
+(A) Nearly constant mortality results in a Type II 
+curve. 
+(B) A fish that lays vast numbers of eggs exhibits 
+a Type III curve. 
+(C) Mortality that is initially low, then increases 
+rapidly during old age, results in a Type I 
+curve. 
+(D) Currently, human populations in the United 
+States and Europe generally exhibit a Type I 
+curve. 
+(E) A species with high juvenile mortality and 
+high adult survivorship results in a Type I 
+curve. 
+ 
+ 105. All of the following may be considered as sites 
+for secondary succession EXCEPT 
+(A) an abandoned agricultural field 
+(B) a bare rock shelf on a mountainside 
+(C) a forest gap resulting from a tree fall 
+(D) a hurricane-damaged forest 
+(E) a flooded valley 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+34
+ 
+ 
+ 
+ 
+ 106. The figure above shows the distribution of 10 plant  
+species that grow along a regular environmental gradient, 
+such as depth of the water table in a river valley. All  
+other environmental factors are similar. This figure 
+demonstrates that 
+(A) species richness increases along the gradient  
+from A to E 
+(B) species richness decreases along the gradient  
+from A to E 
+(C) discrete communities are formed at sites D and E  
+(D) discrete communities are formed at sites A, C, and D 
+(E) no discrete communities are formed along the gradient 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+35
+ 
+ 
+ 107. Acid rain damage depends on the buffering 
+capacity of the soils in a given region. Damage 
+has been greatest where the soil layer is 
+(A) thin and contains little calcium and 
+magnesium 
+(B) thin and contains abundant calcium and 
+magnesium 
+(C) thin and contains abundant calcium but little 
+magnesium 
+(D) thick and contains abundant calcium and 
+magnesium 
+(E) thick and contains little calcium and 
+magnesium 
+ 
+ 108. Nitrogen is a major environmental pollutant of 
+groundwater in many parts of the world. What is 
+the major cause of this nitrogen accumulation in 
+groundwater? 
+(A) Excessive use of nitrogen fertilizers
+ 
+(B) Destruction of nitrifying bacteria, which 
+results in soil nitrogen remaining as NH4+ 
+(C) Excess soil moisture, which causes ammo-
+nification or denitrification
+ 
+(D) Presence of sandy-textured soil
+ 
+(E) Lack of moisture in the topsoil, which attracts
+ 
+nitrogen to the subsurface and groundwater 
+ 
+ 109. The phosphoglucomutase (Pgm) locus in 
+California populations of Nuttall?s white-crowned 
+sparrow has allelic frequencies of 0.8 and 0.2, 
+respectively, for the alleles Pgm-A and Pgm-B. 
+What is the probability that two heterozygous 
+individuals will mate, given that Pgm is in 
+Hardy-Weinberg equilibrium? 
+(A) 0.01 
+(B) 0.10 
+(C) 0.16 
+(D) 0.32 
+(E) 0.60 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+36
+ 
+ 
+ 
+B 
+ 
+GENOTYPES 
+ 
+RR Rr rr Total 
+ 
+Initial frequency 
+ 
+ 
+p2 
+ 
+2pq 
+ 
+q2 
+ 
+p2 + 2pq + q2 
+Adaptive value 
+ 
+1 1 1 ? s  
+Frequency after 
+selection 
+ 
+p2 2pq q2(1 ? s) 1 ? sq2 
+Relative genotype 
+frequency after  
+one generation  
+of selection 
+2
+21
+p
+sq
+ 2
+2
+1
+pq
+sq
+ 
+2
+2
+1
+1
+q s
+sq
+ 
+1 
+ 
+ 110. For a trait controlled by a single-locus, two-allele 
+system with complete dominance, p is the gene 
+frequency of R, the dominant allele, q is the gene 
+frequency of r, the recessive allele, and s is the 
+selection coefficient against the recessive 
+homozygote. The table above indicates the effects  
+of natural selection on genotype frequencies over 
+one generation. 
+  After one generation of such selection, the relative 
+frequency of the recessive allele, r, will be equal to 
+(A) 212 2 1pq q s  
+(B) 
+21
+2
+2
+2 1
+1
+pq q s
+sq
+ 
+(C) 
+2
+2
+1
+1
+q s
+sq
+ 
+(D) 
+21
+2
+2
+2
+1
+pq p
+sq
+ 
+(E) 212 2pq q  
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+37
+ 
+ 
+ 111. Sewall Wright?s metaphor of evolution on an 
+adaptive landscape describes a population as 
+occupying a field of genotypes graded by 
+contours delimiting gene combinations of equal 
+fitness. The evolutionary mechanism most likely 
+to move a population consistently ?uphill? toward 
+adaptive peaks on this landscape is 
+(A) chance 
+(B) directed mutation 
+(C) natural selection 
+(D) gene flow between populations 
+(E) genotypic recombination 
+ 
+ 112. When exposed to a cold environment for several 
+weeks, many small mammals dramatically 
+increase their capacity for heat production 
+primarily by means of 
+(A) decreased insulation 
+(B) increased insulation 
+(C) increased renal function 
+(D) shivering thermogenesis 
+(E) nonshivering thermogenesis 
+ 
+ 113. Plant species A has a diploid number of 12, while 
+species B has a diploid number of 16. Which of 
+the following would be the diploid number of an 
+allotetraploid derived from a hybrid between these 
+two species? 
+(A) 14 
+(B) 28 
+(C) 40 
+(D) 44 
+(E) 56 
+ 
+ 114. If two parents that are heterozygous (Aa) at  
+a single locus give rise to offspring that are  
+25 percent AA, 50 percent Aa, and 25 percent  
+aa, then all of the following are true EXCEPT: 
+(A) The parents are diploid organisms. 
+(B) The a allele is recessive lethal. 
+(C) The alleles assort independently. 
+(D) The gametes combine at random. 
+(E) The probability that a given gamete  
+will receive allele A is one-half. 
+ 
+ 
+ 115. In a certain species of lizard, there are two color 
+morphs associated with a single locus (Y) having 
+two alleles (Y, y):  yellow (yy) and green (YY, Yy). 
+The fitness of the morphs is frequency-dependent, 
+as indicated in the graph above. If the frequency 
+of the yellow morph in a population is 0.70 and 
+individuals are randomly mating, then the 
+expected equilibrium population due to natural 
+selection is 
+(A) monomorphic for yellow morphs 
+(B) monomorphic for green morphs 
+(C) polymorphic with a stable ratio of about  
+1:1 of yellow to green morphs 
+(D) polymorphic with oscillating frequencies of 
+yellow and green morphs 
+(E) polymorphic, but always with a higher 
+frequency of yellow morphs than green 
+morphs 
+ 
+ 116. The fitness of a genotype is higher when it is rare 
+in a population than when it is common. Which of 
+the following types of selection is most likely 
+operating? 
+(A) Density-independent selection 
+(B) Frequency-dependent selection 
+(C) Directional selection 
+(D) Stabilizing selection 
+(E) Disruptive selection 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+38
+ 
+ 
+ 117. The mating system in which a female defends a 
+large, multipurpose territory within which several 
+males defend smaller, exclusive territories is 
+known as 
+(A) polygynandry 
+(B) resource defense polygyny 
+(C) resource defense polyandry 
+(D) resource defense promiscuity 
+(E) harem defense polygyny 
+ 
+ 118. One theory of the evolution of cooperation in 
+animals states that under conditions of low 
+resource availability, some members of a 
+population are willing to sacrifice their own 
+efforts to reproduce to ensure that the population 
+as a whole will not exhaust all its resources and 
+go extinct. Which level of selection is described 
+in this model? 
+(A) Directional selection 
+(B) Individual selection 
+(C) Disruptive selection 
+(D) Stabilizing selection 
+(E) Group selection 
+ 
+ 119. Charles Darwin discussed all of the following 
+EXCEPT: 
+(A) Natural selection tends to remove those 
+organisms that are poorly adapted to their 
+environments. 
+(B) Individuals in a population compete with  
+one another for limited resources. 
+(C) Gene mutations are the source of variation  
+for evolution. 
+(D) Organisms tend to produce more offspring 
+than can survive in each generation. 
+(E) Individuals within species exhibit variability 
+in form and function. 
+ 
+ 120. When numbers of organisms and amounts of 
+living material in successively higher trophic 
+levels are compared, the values usually take the 
+form of a pyramid, with the largest numbers and 
+greatest biomass in the producer trophic level. 
+However, in some marine ecosystems, the 
+consumer trophic levels contain significantly 
+greater amounts of living material than does  
+the primary-producer trophic level. The best 
+explanation for this is which of the following? 
+(A) The main primary producers in marine 
+ecosystems are microscopic algae with 
+extremely high rates of population turnover. 
+(B) Most consumers in marine ecosystems are 
+filter feeders that must maintain large 
+basketlike structures for extracting food 
+from the water. 
+(C) The increased availability of solar radiation 
+in marine ecosystems means that fewer 
+primary producers are required to support 
+marine food chains. 
+(D) Marine zooplankton often produce large 
+extensions of their bodies in order to 
+increase buoyancy. 
+(E) The largest consumers in marine ecosystems, 
+the baleen whales, are essentially filter 
+feeders. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+39
+ 
+ 
+ 121. Two populations of sunflowers, A and B, differ  
+in the heritability of the oil content in their seeds;  
+H2 equals 0.40 in population A, while H2 equals  
+0.70 in population B. Which of the following  
+statements about these sunflower populations is  
+correct? 
+(A) Population A?s seeds have a lower oil 
+content than those of B. 
+(B) The variability in seed oil content is higher  
+in population B than in A. 
+(C) Population A grows in a more diverse and 
+unstable environment than does B. 
+(D) Proportionately more phenotypic variation  
+is environmental variation in population A 
+than in B. 
+(E) Population B has more genetic variation for 
+seed oil content than does A. 
+ 
+ 122. From an evolutionary point of view, plant tendrils 
+derived from leaves and those derived from stems 
+are examples of 
+(A) analogous structures resulting from 
+convergence only 
+(B) homologous structures resulting from 
+convergence only 
+(C) analogous structures resulting from 
+divergence only 
+(D) homologous structures resulting from 
+divergence only 
+(E) both analogous and homologous structures 
+resulting from divergence 
+ 
+ 123. Which of the following is characteristic of 
+allopatric speciation? 
+(A) Large populations 
+(B) Asexually reproducing populations 
+(C) Geographic isolation 
+(D) Isolation through adaptation of alleles 
+(E) The sudden appearance of new species 
+ 
+1 Tyrannosaurus (dinosaur) 
+2. Lobe-finned fishes 
+3. Great apes 
+4. Eohippus (horse) 
+5. Trilobites 
+ 
+ 124. Which of the following represents the proper 
+sequence, from the earliest in the fossil record  
+to the latest, of the animals listed above? 
+(A) 1, 2, 5, 4, 3 
+(B) 2, 5, 1, 3, 4 
+(C) 2, 5, 1, 4, 3 
+(D) 5, 1, 2, 3, 4 
+(E) 5, 2, 1, 4, 3 
+ 
+ 125. Invasion of the land by vascular plants most likely 
+began in which of the following periods? 
+(A) Precambrian 
+(B) Silurian 
+(C) Pennsylvanian 
+(D) Cretaceous 
+(E) Jurassic 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+40
+ 
+ 
+Directions:  Each group of questions below consists of five lettered headings followed by a list of numbered words, 
+phrases, or sentences. For each numbered word, phrase or sentence, select the one heading that is most closely 
+related to it and fill in completely the corresponding space on the answer sheet. One heading may be used once, 
+more than once, or not at all in each group. 
+ 
+Questions 126-129  
+(A) Gross primary production 
+(B) Net primary production 
+(C) Decomposition 
+(D) Secondary production 
+(E) Assimilation 
+ 
+ 126. Gross energy intake by animals minus egested 
+energy losses 
+ 
+ 127. Stored energy left in plants after respiration 
+ 
+ 128. Total amount of energy fixed by autotrophs 
+ 
+ 129. Total energy present at the consumer level 
+ 
+Questions 130-132 refer to the following. 
+(A) Myelin 
+(B) Dendrite 
+(C) Axon 
+(D) Efferent neuron 
+(E) Synapse 
+ 
+ 130. Increases the speed of nerve impulse propagation 
+ 
+ 131. Transmits nerve impulses from the cell body 
+ 
+ 132. Is a functional contact between neurons 
+ 
+Questions 133-135 refer to the following. 
+(A) Clathrin 
+(B) Mannose 6-phosphate 
+(C) Dolichol phosphate 
+(D) Signal sequence 
+(E) Tubulin 
+ 
+ 133. Targets lysosomal hydrolases to lysosomes 
+ 
+ 134. Targets proteins to the endoplasmic reticulum 
+ 
+ 135. Stabilizes regions of the plasma membrane where 
+coated pits are formed 
+ 
+Questions 136-138  
+(A) Stabilizing selection 
+(B) Group selection 
+(C) Directional selection 
+(D) Disruptive selection 
+(E) Kin selection 
+ 
+ 136. Intermediate-sized sparrows have higher survival 
+during a storm than those of extreme sizes. 
+ 
+ 137. Rats with either a high or a low level of testos- 
+terone have higher survival than those with an 
+intermediate level. 
+ 
+ 138. Over a 50-year period, the melanic (dark) form  
+of a moth increases from less than 1% to more 
+than 95% of the population because melanic 
+moths experience less predation from birds than 
+do non-melanic moths. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+41
+ 
+ 
+Questions 139-141 refer to the following enzymes. 
+(A) Pyruvate dehydrogenase
+ 
+(B) Ribulose bisphosphate carboxylase (rubisco)
+ 
+(C) Phosphofructokinase
+ 
+(D) F1ATPase 
+(E) Aldolase 
+ 
+ 139. Enzyme involved in carbon fixation by 
+chloroplasts 
+ 
+ 140. Enzyme that catalyzes a major regulation point of 
+glycolysis 
+ 
+ 141. Enzyme complex responsible for catalyzing the 
+reaction that is the transition between glycolysis 
+and the citric acid (Krebs) cycle 
+ 
+Questions 142-144 refer to the following cell types 
+from the vascular tissue of a plant. 
+(A) Vessel members 
+(B) Tracheids 
+(C) Fibers 
+(D) Sieve-tube members 
+(E) Pith ray cells 
+ 
+ 142. The most primitive vascular plant cells that 
+conduct water and provide support 
+ 
+ 143. Cells that primarily provide rapid transport of 
+water in angiosperms 
+ 
+ 144. Cells that transport photosynthate 
+ 
+Questions 145-147 refer to the following. 
+(A) Leucine zipper motif 
+(B) Zinc finger motif 
+(C) Transcription factor IID 
+(D) Upstream control element 
+(E) Enhancer element 
+ 
+ 145. Binds to the TATA box and assists in mediating 
+multiple rounds of transcription by RNA 
+polymerase II 
+ 
+ 146. DNA sequence required for gene transcription 
+that extends approximately 100 nucleotide pairs  
+in front of the RNA start site 
+ 
+ 147. Stimulates RNA transcription from either an 
+upstream or downstream position 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+42
+ 
+ 
+ 
+Questions 148-150 refer to the diagram below of a capillary net around an alveolus. 
+ 
+(A) Alveolar space 
+(B) Alveolar wall 
+(C) Capillary wall 
+(D) Plasma 
+(E) Erythrocyte 
+ 
+ 148. Prior to equilibrium, the highest partial pressure  
+of oxygen occurs at this site. 
+ 
+ 149. Carbon monoxide causes respiratory failure by  
+outcompeting oxygen at this site. 
+ 
+ 150. Hemoglobin is located primarily at this site. 
+ 
+ 
+ 
+ 
+Questions 151-153  
+(A) Tethys 
+(B) Pangea 
+(C) Gondwana 
+(D) Laurasia 
+(E) Archean 
+ 
+ 151. Precursor to the northern group of continents 
+ 
+ 152. Precursor to Africa, South America, Australia,  
+Antarctica, and India 
+ 
+ 153. The supercontinent that began to break up during  
+the Triassic 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+43
+ 
+ 
+Directions:  Each group of questions below concerns a laboratory or an experimental situation. In each case, first 
+study the description of the situation. Then choose the one best answer to each question and fill in completely the 
+corresponding space on the answer sheet. 
+ 
+Questions 154-155  
+M-phase-promoting factor (MPF) triggers mitosis by activating other proteins that function in cell division. 
+Active MPF consists of two associated proteins, cyclin and Cdc2. The Cdc2 component of active MPF is a protein 
+kinase. The relative concentrations of active MPF, Cdc2, and cyclin were monitored during the cell cycle and are 
+depicted in the figure below. 
+ 
+ 
+ 
+ 154. During the cell cycle, active MPF decreases at the 
+end of mitosis. This can be best explained by the 
+(A) increase in Cdc2 during mitosis 
+(B) increase in cyclin during mitosis 
+(C) decrease in cyclin during mitosis 
+(D) decrease in Cdc2 during mitosis 
+(E) decrease in inactive MPF during mitosis 
+ 
+ 155. If MPF activates a series of enzymes, one of 
+which inactivates MPF, it is likely that one of the 
+enzymes activated by MPF 
+(A) degrades cyclin only 
+(B) degrades Cdc2 only 
+(C) degrades cyclin and Cdc2 
+(D) stimulates cyclin  
+(E) stimulates Cdc2 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+44
+ 
+ 
+Questions 156-157 refer to the following experiment. 
+The marine coenocytic green alga Caulerpa grows in a unidirectional pattern. Photosynthetic fronds are produced 
+on its upper surface and anchoring rhizoids on the lower surface (Figure I). When the same organism was inverted, 
+new rhizoids were then initiated on the newly formed lower surface, while fronds were initiated on the newly formed 
+upper surface (Figure II). 
+ 
+Secondary fronds can be initiated from the margins of the primary fronds. In another experiment, it was found 
+that if the secondary fronds are initiated after the plant has been inverted, they will grow upward, even if the frond 
+from which they are growing is oriented downward (Figure III). 
+ 
+ 
+ 
+ 156. Which of the following conclusions is best indi- 
+cated by the additional experiment in Figure III ? 
+(A) Cellular gravity sensors are likely not respon- 
+sible for the establishment of polarity. 
+(B) Tip growth always occurs perpendicular to 
+the pull of gravity. 
+(C) Newly formed cytoplasm is fully differen- 
+tiated and cannot respond to altered 
+orientation. 
+(D) The change in polarity is expressed only in 
+newly formed cytoplasm. 
+(E) Coenocytic organisms do not display cellular 
+differentiation. 
+ 157. Which of the following procedures would best 
+test whether the induction of polarity is regulated 
+at the transcriptional level? 
+(A) Expose plants to a protein synthesis inhibitor, 
+then invert. 
+(B) Invert plants, then expose to a protein 
+synthesis inhibitor. 
+(C) Expose plants to an RNA synthesis inhibitor, 
+then invert. 
+(D) Invert plants, then expose to an RNA 
+synthesis inhibitor. 
+(E) Expose plants to a DNA synthesis inhibitor, 
+then invert. 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+45
+ 
+ 
+Questions 158-159 
+The average daily temperature change on an exposed south-facing slope and a north-facing slope for a late 
+summer day in the Northern Hemisphere are shown below. 
+ 
+ 
+ 
+ 158. Compared with a south-facing slope, the climatic 
+conditions on a north-facing slope favor the 
+formation of a vegetation community best 
+adapted to 
+(A) colder temperatures and wetter environments 
+(B) colder temperatures and drier environments 
+(C) hotter temperatures and similar moisture 
+environments 
+(D) hotter temperatures and wetter environments 
+(E) hotter temperatures and drier environments 
+ 
+ 159. The difference in the maximum average daily 
+temperature between the south-facing slope and 
+the north-facing slope is approximately 
+(A) 0?C 
+(B) 5?C 
+(C) 10?C 
+(D) 25?C 
+(E) 35?C 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+46
+ 
+ 
+Questions 160-163 
+In experiments to determine possible metabolic side effects of a new industrial by-product X941, the rate of 
+respiratory oxygen consumption by isolated mitochondria was assayed. The mitochondria were maintained in a 
+solution containing high concentrations of dissolved oxygen and inorganic phosphate. 
+ 
+Figure 1 shows the results of a control experiment. Pyruvic acid, the principal metabolic precursor for the citric 
+acid cycle, was added to isolated mitochondria, followed a short time later by the addition of ADP. Figure 2 
+illustrates the effect of adding X941 instead of ADP. 
+ 
+ 
+ 
+ 160. Which of the following best explains why O2 
+concentration does not decrease until after the 
+addition of ADP, as shown in Figure 1 ? 
+(A) The proton gradient that drives electron 
+transport can be produced only by 
+phosphorylation of ADP. 
+(B) A complete turn of the citric acid cycle 
+requires several ADP?s directly. 
+(C) ADP is a substrate, along with pyruvate, for 
+pyruvate dehydrogenase. 
+(D) ADP is an allosteric activator of cytochrome 
+oxidase, which is unable to transfer 
+electrons to O2 without ADP. 
+(E) The proton gradient produced by pyruvate 
+metabolism quickly inhibits electron 
+transport; the inhibition is released by ATP 
+synthesis. 
+ 
+ 161. Which of the following is the most likely reason 
+that O2 consumption stops a short time after the 
+addition of ADP, as shown in Figure 1 ? 
+(A) The O2 concentration has fallen to zero. 
+(B) Most of the ADP has been phosphorylated.
+ 
+(C) The mitochondria have burst from excess 
+ATP.
+ 
+(D) The pyruvate dehydrogenase activity has 
+been destroyed.
+ 
+(E) The electron transport system has been 
+denatured. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+47
+ 
+ 
+ 162. In Figure 2, the addition of X941 results in the 
+nearly complete depletion of the O2 in the assay 
+mixture. A further test showed that this depletion 
+occurred even when inorganic phosphate was 
+omitted from the assay. The most likely 
+explanation for the effect of X941 is that X941 
+(A) allows O2 to leak out of the mitochondria 
+(B) is a precursor to the synthesis of ADP
+ 
+(C) uncouples ADP phosphorylation from 
+electron transport
+ 
+(D) serves as an alternative electron acceptor in 
+the system
+ 
+(E) serves as an allosteric activator of pyruvate 
+dehydrogenase 
+ 
+ 163. If X941 is an ionophore, which of the following 
+best describes its mode of action? 
+(A) It rearranges the mitochondrial membrane,
+ 
+thus allowing O2 to pick up electrons of 
+higher energy.
+ 
+(B) It allows O2 to diffuse through the inner 
+mitochondrial membrane more quickly.
+ 
+(C) It sequesters ions that are known to inhibit 
+the transfer of electrons to O2. 
+(D) It allows protons to diffuse through the inner
+ 
+mitochondrial membrane, thus dissipating 
+the proton gradient.
+ 
+(E) It acts as an electron donor, thus providing
+ 
+the electron transport system with a large
+ 
+number of electrons to reduce O2. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+48
+ 
+ 
+Questions 164-167  
+Graphs showing the metabolic response of five different species of animals at various ambient temperature 
+exposures are shown below. The average body mass of each of the species is 25 grams. All measurements were 
+made using respirometers in the lab with the animals at rest and postabsorptive. 
+ 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+49
+ 
+ 
+ 164. Of the species studied, which is best insulated? 
+(A) Species A 
+(B) Species B 
+(C) Species C 
+(D) Species D 
+(E) Species E 
+ 
+ 165. Of the species studied, which has the highest 
+basal metabolic rate? 
+(A) Species A 
+(B) Species B 
+(C) Species C 
+(D) Species D 
+(E) Species E 
+ 
+ 166. Which of the following can be concluded for 
+species C, D, and E ? 
+(A) Metabolic costs increase with increased body 
+mass. 
+(B) Metabolic expenditures decrease below the 
+lower critical temperature. 
+(C) The lowest metabolic costs are in the 
+thermoneutral zone. 
+(D) The lowest metabolic costs are attained at an 
+ambient temperature of 20?C. 
+(E) The animals require no energy input in the 
+thermoneutral zone. 
+ 
+ 167. Which of the following pairs of species are 
+ectotherms? 
+(A) Species A and B 
+(B) Species A and C 
+(C) Species B and D 
+(D) Species B and E 
+(E) Species C and D 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+50
+ 
+ 
+Questions 168-171 
+The graph below shows the growth rates of populations of bacteria that have evolved for many generations  
+at different culture temperatures (25?C, 30?C, and 35?C). Each population grows over only a limited range of 
+temperatures (its thermal niche), which are bounded by its critical thermal limits. Within this range, growth rate 
+increases with temperature up to a maximal value and then declines rapidly with increasing temperature. Growth 
+rates are known to be the major determinant of fitness for these bacteria. 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+51
+ 
+ 
+ 168. Which of the following is true concerning the 
+thermal dependence of growth rate between 25?C 
+and 30?C in these populations? 
+(A) Thermal dependence is greatest in the 
+population evolved at 25?C. 
+(B) Thermal dependence is greatest in the 
+population evolved at 30?C. 
+(C) Thermal dependence is greatest in the 
+population evolved at 35?C. 
+(D) Growth rates of all populations are equally 
+thermally dependent over this temperature 
+range. 
+(E) Growth rates of all populations are thermally 
+independent over this temperature range. 
+ 
+ 169. Which population has the highest fitness at 25?C ? 
+(A) The population evolved at 25?C. 
+(B) The population evolved at 30?C. 
+(C) The population evolved at 35?C. 
+(D) All populations are equally fit at this 
+temperature. 
+(E) It cannot be determined from the information 
+given. 
+ 
+ 170. Which of the following can be correctly concluded 
+from this experiment? 
+(A) The temperature range of the thermal niche 
+remains constant at different evolutionary 
+temperatures, even though critical thermal 
+limits may change. 
+(B) Critical thermal limits remain constant during 
+evolution at different temperatures. 
+(C) The same maximal growth rate is attained in 
+all three populations, but it is attained at 
+different temperatures. 
+(D) Maximal growth rate is not always attained at 
+the temperature at which a population 
+evolved. 
+(E) No evolutionary changes have occurred in 
+these populations. 
+ 
+ 171. If all three populations were mixed together and 
+placed at 37?C, which of the following would be 
+most likely to happen? 
+(A) Only the population evolved at 25?C would 
+die and become extinct. 
+(B) Only the population evolved at 35?C would 
+survive and reproduce. 
+(C) All the bacteria would die and the 
+populations would become extinct. 
+(D) All populations would grow, and transfer of 
+genes would create one common population. 
+(E) It cannot be determined from the information 
+given. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+52
+ 
+ 
+Questions 172-174 refer to the following experiment. 
+The graph below contains data obtained in an experiment designed to elucidate the mechanism of sucrose uptake 
+by the marine bacterium Vibrio alginolyticus. Sucrose uptake was determined by incubating washed cells in  
+[14C]-sucrose for short periods of time, harvesting, rewashing the cells, and measuring the sucrose present. Uptake 
+was measured in the presence of Na+, Na+ plus CCCP (an inhibitor of proton gradient formation), K+, and Li+. 
+ 
+ 
+ 
+ 172. Based on the data, which of the following state-
+ments best describes the uptake of sucrose by 
+these cells? 
+(A) Sucrose crosses the membrane by simple 
+diffusion. 
+(B) Sucrose is transported by a carrier-mediated 
+system. 
+(C) Sucrose transport is not dependent on Na+. 
+(D) Sucrose transport occurs by only one 
+mechanism. 
+(E) Sucrose is not transported into the cell under 
+most conditions. 
+ 
+ 173. The primary reason for testing the effects of 
+CCCP is to determine whether 
+(A) the effect of Li+ is dependent on Na+
+ 
+(B) a proton gradient is required for sucrose 
+transport
+ 
+(C) Na+ transport occurs alone
+ 
+(D) nonsaturable transport occurs
+ 
+(E) K+ can substitute for Na+ in sucrose 
+transport 
+ 174. Which of the following is the best explanation for 
+the effects of Li+ and K+ on the uptake of 
+sucrose? 
+(A) These ions bind to sucrose and block its entry 
+into the cell. 
+(B) These ions decrease the net Na+ available in
+ 
+the cells for cotransport. 
+(C) These ions uncouple the respiratory process 
+that generates energy for the uptake of 
+sucrose. 
+(D) These ions are not transported rapidly by the
+ 
+Na+/sucrose cotransporter system.
+ 
+(E) These ions are allosteric effectors of the
+ 
+sucrose transporter system. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+53
+ 
+ 
+Questions 175-177 
+The concept of species diversity has two components:  evenness and richness. Evenness is based on the relative 
+abundance of species. Richness is based on the total number of species present. Diversity indices combine a measure 
+of richness and evenness. The Simpson index (C) is calculated from the following equation. 
+ 
+2C n / Ni
+i  
+ 
+where 
+ni = importance value for each species 
+N = total importance values 
+ 
+Below are data collected in two terrestrial plant communities that represent part of a successional chronosequence. In 
+this case, importance values were measured as percent cover. 
+ 
+EARLY-SUCCESSIONAL  
+COMMUNITY 
+ LATE-SUCCESSIONAL  
+COMMUNITY 
+ 
+Species 
+Percent  
+Cover 
+  
+Species 
+Percent  
+Cover 
+A 83  F 24 
+B 5  G 20 
+C 9  H 18 
+D 2  I 23 
+E 1  J 15 
+ 
+ 175. The Simpson index value for the late-successional 
+community is 
+(A) 1.00 
+(B) 0.410 
+(C) 0.205 
+(D) 0.0410 
+(E) 0.0205 
+ 
+ 176. The data indicate that, relative to the early-
+successional community, the late-successional 
+community has which of the following 
+characteristics? 
+ Species Richness Evenness
+ 
+(A) Higher Higher  
+(B) Higher Lower 
+(C) Same Lower 
+(D) Same Higher 
+(E) Lower Lower 
+ 
+ 177. Experimental removal of species B and C in the 
+early-successional community resulted in a slower 
+subsequent colonization and establishment of 
+species F and G. This result suggests that the 
+primary mechanism by which F and G replace 
+B and C during succession is 
+(A) inhibition 
+(B) facilitation 
+(C) competitive displacement 
+(D) allelopathy 
+(E) facultative mutualism 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+54
+ 
+ 
+Questions 178-181 refer to the following experiment. 
+ 
+ 
+The two graphs above indicate the relationship between oxygen content and oxygen partial pressure (Po2) in 
+samples of blood taken from two species of vertebrates (species I and species II). Each sample was subjected to two 
+levels of carbon dioxide pressure (Pco2):  curve A represents the values measured at normal Pco2 and curve B 
+represents the values measured at elevated Pco2. The blood passing through the lungs of these species normally has a 
+Po2 of 100 millimeters of mercury and the venous blood leaving the tissues has a Po2 of 40 millimeters of mercury. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+55
+ 
+ 
+ 178. When curve A for species I is compared to 
+curve A for species II, it can be predicted that  
+the O2 concentration of the blood will be 
+(A) higher in the lung for species I than for 
+species II 
+(B) lower in the lung for species I than for 
+species II 
+(C) higher in species I at all pressures 
+(D) lower in species I at all pressures 
+(E) the same in both species at all pressures 
+ 
+ 179. If deoxygenated blood samples were exposed 
+ 
+to increasing Po2, the first sample to become 
+saturated with O2 would be from which of the 
+following? 
+(A) Species I at normal Pco2 
+(B) Species I at elevated Pco2 
+(C) Species II at normal Pco2 
+(D) Species II at elevated Pco2 
+(E) There are no differences. 
+ 
+ 180. Which of the following statements best describes 
+the effect of increased carbon dioxide pressure in 
+the blood of the two species? 
+(A) It affects oxygen affinity and oxygen-
+carrying capacity in one species only. 
+(B) It increases the oxygen affinity but has no 
+effect on oxygen-carrying capacity in either 
+species. 
+(C) It reduces the oxygen affinity and the 
+oxygen-carrying capacity in both species. 
+(D) It reduces oxygen affinity but has no effect 
+on oxygen-carrying capacity in either 
+species. 
+(E) It has no effect on either oxygen affinity or 
+oxygen-carrying capacity in either species. 
+ 
+ 181. If the Pco2 of arterial blood is equivalent to that 
+used to obtain curve A and if venous Pco2 
+corresponds to that used to obtain curve B, how 
+much oxygen will be released from a liter of 
+blood as it passes through the tissues in species I ? 
+(A) 20 mL 
+(B) 40 mL 
+(C) 120 mL 
+(D) 160 mL 
+(E) 200 mL 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+56
+ 
+ 
+Questions 182-185 refer to the following model as an example of adaptive radiation and species 
+diversification. 
+One of the classical examples of evolution occurs on the Gal?pagos Islands with Darwin?s finches. The islands 
+have always been separate from the South American mainland and vary in size and elevation. The lowlands are 
+covered with thorn scrub, while higher elevations (found only on the larger islands) are covered with moist, dense 
+forests. All the organisms living on these islands are descendants of species that have emigrated there, primarily 
+from South America. In studying the finch populations, researchers have identified fourteen species, none of which 
+are found on the mainland. 
+ 
+ 182. The initial colonizing population of finches most 
+likely exhibited which of the following? 
+(A) Hybridization with bird species already 
+existing on the islands 
+(B) High rates of interbreeding with mainland 
+populations 
+(C) Increased rates of mutation to fill habitats 
+(D) A novel behavior not seen in mainland 
+populations 
+(E) A smaller gene pool than that of the mainland 
+populations 
+ 
+ 183. As opposed to the mainland, on the islands the 
+initial colonists (finches) had the opportunity to 
+evolve in new directions primarily because there 
+(A) was an absence of interspecific competition 
+(B) was mixing of the gene pool 
+(C) was a higher mutation rate 
+(D) was higher predation pressure 
+(E) were higher levels of inbreeding 
+ 
+ 184. Initially, one species of finch may have settled on 
+two different islands, maintained this separation 
+over hundreds of years, and eventually followed 
+divergent adaptive pathways. If these now two 
+separate species should migrate onto a new island, 
+they could maintain their individual species 
+identities on this island in all the following ways 
+EXCEPT if one species 
+(A) hybridizes successfully with the other species 
+(B) lives in the forests and the other in the 
+scrubland 
+(C) carries out different stages of its life cycle at 
+different times than the other species 
+(D) fails to produce viable young after mating 
+with the other species 
+(E) is not attracted to the other species for mating 
+ 
+ 185. Although the initial finch species on the islands 
+may have all been seed eaters, which of the 
+following processes minimized competition as the 
+population expanded? 
+(A) Selection for niche diversification 
+(B) Development of more efficient attack 
+behavior 
+(C) Further emigration when carrying capacity 
+was reached 
+(D) Genetic drift 
+(E) Postzygotic mating factors 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+57
+ 
+ 
+Questions 186-188 
+Lymphocytes extracted from the rat kangaroo, Potorous tridactylus, were grown in culture for karyotype analysis. 
+To obtain chromosome spreads, such as that illustrated below, lymphocytes were incubated in the antimitotic drug 
+colchicine for 30 minutes before fixation and staining. The chromosomes depicted below are representative of the 
+karyotype found in all of the cells of the culture. 
+ 
+ 
+ 
+ 186. Which of the following correctly describes the 
+chromosome number in this rat kangaroo cell? 
+(A) The haploid chromosome number is 12. 
+(B) The haploid chromosome number is 24. 
+(C) The diploid chromosome number is 12. 
+(D) The diploid chromosome number is 24. 
+(E) The triploid chromosome number is 24. 
+ 
+ 187. During anaphase, how many kinetochores would 
+be expected in a normal rat kangaroo lymphocyte? 
+(A) 12 
+(B) 18 
+(C) 24 
+(D) 36 
+(E) 48 
+ 
+ 188. During S phase, DNA synthesis originates at 
+specific sequences in the chromosomal DNA. 
+How many sites for initiation of DNA synthesis 
+would be expected among the chromosomes 
+within the rat kangaroo karyotype during S phase? 
+(A) Fewer than 12  
+(B) 12 
+(C) Between 12 and 24 
+(D) 24 
+(E) More than 24 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+58
+ 
+ 
+Questions 189-192  
+Protein X is a protein kinase encoded by mRNA X and is normally present in extracts of whole cleavage-stage 
+frog embryos. Protein I, encoded by mRNA I, is an inactive mutant form of protein X and blocks the function of 
+protein X present in the same cell by competing for binding. The results shown in the table below were obtained  
+in a series of experiments in which all four cells in four-cell-stage embryos were injected as shown and allowed  
+to develop to the early larval stage. Control embryos were pierced by a needle, but no material was injected. The 
+larvae were scored for the presence or absence of eyes in the normal dorsal body axis and for the presence of eyes  
+in the ventrally located secondary body axis that formed as a result of some of the treatments. 
+ 
+Material  
+Injected 
+ 
+Injection 
+Location 
+Dorsal Body  
+Axis with Eyes 
+Ventral Body  
+Axis with Eyes 
+Control Dorsal 100% 0% 
+mRNA X Dorsal 0% 0% 
+mRNA I Dorsal 100% 0% 
+Control Ventral 100% 0% 
+mRNA X Ventral 100% 0% 
+mRNA I Ventral 100% 100% 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+59
+ 
+ 
+ 189. The results suggest that protein X has which of 
+the following effects on formation of normal head 
+structures? 
+(A) Weak inhibition 
+(B) Weak stimulation 
+(C) Strong inhibition 
+(D) Strong stimulation 
+(E) The effect cannot be evaluated from  
+these data. 
+ 
+ 190. The data indicate that in at least some cells in the 
+frog embryos, translation effectively occurs for 
+(A) mRNA X but not mRNA I 
+(B) mRNA I but not mRNA X 
+(C) neither mRNA X nor mRNA I 
+(D) both mRNA X and mRNA I 
+(E) most types of mRNA molecules 
+ 
+ 191. If translation of mRNA X occurs during cleavage, 
+the results suggest that protein X would most 
+likely be detectable at which location in untreated 
+late-cleavage-stage frog embryos? 
+(A) Primarily in the dorsal cells of the embryos 
+(B) Primarily in the equatorial cells of the 
+embryos 
+(C) Primarily in the ventral cells of the embryos 
+(D) In all of the cells of the embryos 
+(E) In few, if any, of the cells of the embryos 
+ 
+ 192. In Mangold and Spemann?s experiments pieces of 
+dorsal lip tissue transplanted to the ventral surface 
+of amphibian embryos induced the formation of a 
+secondary body axis. Their results can be recon-
+ciled with the results shown above by assuming 
+which of the following about the cells of the 
+dorsal lip of the blastopore (Spemann?s primary 
+inducer) ? 
+(A) They secrete protein X into the extracellular 
+matrix of the embryo. 
+(B) They destroy protein X in the extracellular 
+matrix of the embryo. 
+(C) They contain relatively high concentrations 
+of protein X. 
+(D) They stimulate protein X synthesis or 
+increase activity of protein X in 
+neighboring cells in the embryo. 
+(E) They inhibit protein X synthesis or decrease 
+activity of protein X in neighboring cells in 
+the embryo. 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+60
+ 
+ 
+Questions 193-195 
+In muscle cells, Ca2+ is actively transported into the sarcoplasmic reticulum. The membranes of the sarcoplasmic 
+reticulum can be isolated in the form of microsomes. Each microsome contains several hundred molecules of an 
+enzyme that uses ATP as an energy source to drive the inward transport of calcium ions that are added externally.  
+In one experiment, the results shown below were obtained. 
+ 
+ 
+Experimental conditions: 1.0 ml of 0.1 M KCl containing:
+ 
+ 5 mM MgCl2 
+ 5 mM ATP
+ 
+ 0.1 mM CaCl2 
+ 0.1 mg protein (ATPase) 
+ 
+ 193. What is the rate of ATP hydrolysis, expressed as 
+micromoles of ATP hydrolyzed per milligram of 
+protein per minute? 
+(A) 2 
+(B) 1 
+(C) 0.5 
+(D) 0.25 
+(E) 0.1 
+ 
+ 194. What is the ratio of calcium pumped per ATP 
+hydrolyzed? 
+(A) 1:4 
+(B) 1:2 
+(C) 1:1 
+(D) 2:1 
+(E) 4:1 
+ 
+ 195. The specific activity for the ATPase enzyme is 
+expressed in units of 
+(A) mole ATPasesec?1 
+(B) mole ATPsec?1mg protein?1 
+(C) mole ADPsec?1 
+(D) mole ADPsec?1mg protein?1 
+(E) mole ADPsec?1mole ATPase?1 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+61
+ 
+ 
+Questions 196-198 
+A species of long-day plant (LDP) and a species of short-day plant (SDP), each having a critical photoperiod of 
+10 hours, were placed in growth chambers that provided identical environmental conditions, except for the length  
+of the photoperiod. Individuals from each species were treated as indicated in the following table for a period of 
+many weeks. 
+ 
+24-hour Cycle 
+Treatment Plant Species Hours of Light Hours of Darkness 
+1 LDP 8 16 
+2 LDP 16 8 
+3 SDP 8 16 
+4 SDP 16 8 
+ 
+A second experiment was conducted under identical conditions, except that halfway through the dark period the 
+lights were switched on for one minute and then switched off. 
+ 
+ 196. In the initial experiment, for which of the following 
+treatments would the plants be expected to flower? 
+(A) 1 and 2 
+(B) 1 and 3 
+(C) 1 and 4 
+(D) 2 and 3 
+(E) 2 and 4 
+ 
+ 197. In the second experiment, for which of the 
+following treatments would the plants be  
+expected to flower? 
+(A) 1 and 2 
+(B) 1 and 3 
+(C) 1 and 4 
+(D) 2 and 3 
+(E) 2 and 4 
+ 
+ 198. Which of the following wavelengths of light 
+would be the most effective in interrupting the 
+dark period in the second experiment? 
+(A) 460 nm (blue) 
+(B) 520 nm (green) 
+(C) 580 nm (yellow) 
+(D) 660 nm (red) 
+(E) 730 nm (far-red) 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+GO ON TO THE NEXT PAGE. 
+62
+ 
+ 
+Questions 199-200 
+The mussel Mytilus edulis thrives in saline habitats, 
+in both the highly salty seawater of tidal zones and  
+the less salty estuaries. This results in two kinds  
+of populations:  one adapted to the higher salt 
+concentrations of the tidal zone, and one adapted  
+to the lower salt concentrations of the estuary. It has 
+been found that the more salt-tolerant populations 
+have high frequencies of an allele that produces an 
+enzyme involved in maintaining osmotic equilibrium. 
+Conversely, estuarine mussels having the same 
+enzyme seem to be disfavored and have a much 
+higher death rate than mussels without the allele. 
+Adult estuarine populations do have lower 
+frequencies of this allele. Each spring, large  
+numbers of larvae from the salty habitats pour  
+into the estuaries. 
+ 
+ 199. The invasion of the seawater larvae would be 
+expected to facilitate change in the genetic 
+structure of the estuarine population by a process 
+called 
+(A) directional selection 
+(B) genetic drift 
+(C) gene flow 
+(D) disruptive selection 
+(E) nonrandom mating 
+ 
+ 200. THIS ITEM WAS NOT SCORED.  
+        
+       
+         
+        
+         
+      
+   
+         
+  
+        
+      
+       
+      
+         
+        
+       
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you finish before time is called, you may check your work on this test. 
+ 
+ 
+ 
+Unauthorized copying or reuse of 
+any part of this page is illegal.
+ 
+63
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NO TEST MATERIAL ON THIS PAGE 
+64
+NOTE: To ensure prompt processing of test results, it is important that you fi ll in the blanks exactly as directed.
+?
+A B C D 
+A B C D 
+A B C D 
+A B C D 
+E 
+E 
+E 
+E 
+A C D E B 
+PRINT: ___________________________________________________________________
+ (LAST) (FIRST) (MIDDLE)
+SIGN: ____________________________________________________________________
+I
+Educational Testing Service
+Princeton, New Jersey 08541
+DO NOT OPEN YOUR TEST BOOK UNTIL YOU ARE TOLD TO DO SO.
+CORRECT ANSWER
+PROPERLY MARKED
+IMPROPER MARKS
+GRADUATE RECORD EXAMINATIONS SUBJECT TEST
+B. The Subject Tests are intended to measure your achievement in a specialized fi eld of study. Most of the questions are 
+concerned with subject matter that is probably familiar to you, but some of the questions may refer to areas that you 
+have not studied.
+Your score will be determined by subtracting one-fourth the number of incorrect answers from the number of correct 
+answers. Questions for which you mark no answer or more than one answer are not counted in scoring. If you have 
+some knowledge of a question and are able to rule out one or more of the answer choices as incorrect, your chances of 
+selecting the correct answer are improved, and answering such questions will likely improve your score. It is unlikely 
+that pure guessing will raise your score; it may lower your score.
+You are advised to use your time effectively and to work as rapidly as you can without losing accuracy. Do not spend 
+too much time on questions that are too diffi cult for you. Go on to the other questions and come back to the diffi cult 
+ones later if you can.
+YOU MUST INDICATE ALL YOUR ANSWERS ON THE SEPARATE ANSWER SHEET. No credit will be given 
+for anything written in this examination book, but you may write in the book as much as you wish to work out your 
+answers. After you have decided on your response to a question, fi ll in the corresponding oval on the answer sheet. 
+BE SURE THAT EACH MARK IS DARK AND COMPLETELY FILLS THE OVAL. Mark only one answer to each 
+question. No credit will be given for multiple answers. Erase all stray marks. If you change an answer, be sure that all 
+previous marks are erased completely. Incomplete erasures may be read as intended answers. Do not be concerned that 
+the answer sheet provides spaces for more answers than there are questions in the test.
+Copy the Test Name and Form Code in box 7 on your answer 
+sheet.
+TEST NAME    ___________________________________
+FORM CODE ____________________________________
+Copy this code in box 6 on 
+your answer sheet. Then 
+fi ll in the corresponding 
+ovals exactly as shown.
+SUBJECT TEST
+A. Print and sign 
+your full name 
+in this box:
+GR0624
+Biology
+Sample AnswerExample:
+ What city is the capital of France?
+ (A) Rome
+ (B) Paris
+ (C) London
+ (D) Cairo
+ (E) Oslo
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+6.  TITLE CODE
+2 4 1 5 5
+BIOLOGY TEST
+PRACTICE BOOK
+65
+Scoring Your Subject Test
+Biology Test scores are reported on a 200 to 990 
+score scale in ten-point increments. The actual 
+range of scores is smaller, and it varies from edition 
+to edition because different editions are not of pre-
+cisely the same diffi culty. However, this variation 
+in score range is usually small and should be taken 
+into account mainly when comparing two very 
+high scores. In general, differences between scores 
+at the 99th percentile should be ignored. The score 
+conversion table on page 67 shows the score 
+range for this edition of the test only.
+Subscores are reported as two-digit scaled scores. 
+The maximum possible range of Subject Test 
+subscores is 20 to 99. Like total scores, the actual 
+range of subscores for any test or test edition may be 
+smaller than 20 to 99. 
+The worksheet on page 66 lists the correct 
+answers to the questions. Columns are provided 
+for you to mark whether you chose the correct 
+(C) answer or an incorrect (I) answer to each ques-
+tion. Draw a line across any question you omitted, 
+because it is not counted in the scoring. At the 
+bottom of the page, enter the total number correct 
+and the total number incorrect. Divide the total 
+incorrect by 4 and subtract the resulting number 
+from the total correct. Then round the result to the 
+nearest whole number. This will give you your raw 
+total score. Use the total score conversion table to 
+fi nd the scaled total score that corresponds to your 
+raw total score.
+Example: Suppose you chose the correct answers to 
+105 questions and incorrect answers to 41. Dividing 
+41 by 4 yields 10.3. Subtracting 10.3 from 105 equals 
+94.7, which is rounded to 95. The raw score of 95 
+corresponds to a scaled score of 670.
+The subscore columns in the worksheet can 
+be similarly used to tally your correct and incor-
+rect responses to the questions that contribute to 
+each subscore. We suggest that you circle the ??? 
+if you chose the correct answer, and put a minus 
+sign beside the ??? for an incorrect answer. Space 
+is provided at the bottom right of the worksheet to 
+calculate and enter your three raw subscores. The 
+subscore conversion table will show you the scaled 
+subscores that correspond to your raw subscores.
+BIOLOGY TEST
+PRACTICE BOOK
+66
+Worksheet for the Biology Test, Form GR0624 Only
+Answer Key and Percentages* of Examinees Answering Each Question Correctly
+Total Correct (C)
+Total Incorrect (I)
+Total Score:
+C ? I/4 = ____________
+Scaled Score (SS) = ____________
+  
+ * The P+ column indicates the percent of BIOLOGY Test examinees who answered each question correctly; it is based on a sample of December 2006 examinees selected to 
+represent all BIOLOGY Test examinees tested between July 1, 2004, and June 30, 2007.
+ ** Item 200 was not scored when this form of the test was originally administered.
+QUESTION
+P+
+RESPONSE SUBSCORE
+Number Answer C I 1 2 3
+1 B 70 ?
+2 A 84 ?
+3 B 70 ?
+4 E 67 ?
+5 A 82 ?
+6 E 59 ?
+7 A 78 ?
+8 D 10 ?
+9 B 65 ?
+10 C 45 ?
+11 B 74 ?
+12 B 47 ?
+13 D 41 ?
+14 C 58 ?
+15 C 63 ?
+16 A 49 ?
+17 A 18 ?
+18 A 28 ?
+19 B 68 ?
+20 D 68 ?
+21 C 78 ?
+22 C 26 ?
+23 E 29 ?
+24 E 70 ?
+25 E 34 ?
+26 A 92 ?
+27 C 63 ?
+28 C 56 ?
+29 D 11 ?
+30 E 63 ?
+31 E 23 ?
+32 B 33 ?
+33 E 29 ?
+34 A 32 ?
+35 D 44 ?
+36 D 56 ?
+37 A 28 ?
+38 E 45 ?
+39 B 34 ?
+40 A 60 ?
+41 E 39 ?
+42 E 49 ?
+43 D 57 ?
+44 E 89 ?
+45 D 77 ?
+46 A 76 ?
+47 E 71 ?
+48 E 58 ?
+49 B 44 ?
+50 B 91 ?
+51 B 37 ?
+52 B 13 ?
+53 C 83 ?
+54 B 32 ?
+55 E 61 ?
+56 C 35 ?
+57 A 69 ?
+58 E 55 ?
+59 B 67 ?
+60 D 44 ?
+61 E 34 ?
+62 C 34 ?
+63 D 43 ?
+64 C 54 ?
+65 A 80 ?
+66 B 72 ?
+67 D 46 ?
+68 B 46 ?
+69 D 24 ?
+70 E 64 ?
+QUESTION
+P+
+RESPONSE SUBSCORE
+Number Answer C I 1 2 3
+71 D 27 ?
+72 E 57 ?
+73 B 13 ?
+74 C 57 ?
+75 D 82 ?
+76 E 35 ?
+77 D 21 ?
+78 B 38 ?
+79 E 53 ?
+80 B 68 ?
+81 C 38 ?
+82 B 50 ?
+83 E 19 ?
+84 C 26 ?
+85 E 88 ?
+86 C 85 ?
+87 C 64 ?
+88 D 58 ?
+89 D 31 ?
+90 D 70 ?
+91 E 95 ?
+92 C 49 ?
+93 A 59 ?
+94 A 85 ?
+95 E 65 ?
+96 A 61 ?
+97 C 27 ?
+98 B 60 ?
+99 A 15 ?
+100 B 55 ?
+101 C 64 ?
+102 C 43 ?
+103 B 47 ?
+104 E 70 ?
+105 B 76 ?
+106 E 65 ?
+107 A 62 ?
+108 A 74 ?
+109 B 21 ?
+110 B 35 ?
+111 C 59 ?
+112 E 26 ?
+113 B 40 ?
+114 B 69 ?
+115 A 15 ?
+116 B 54 ?
+117 C 54 ?
+118 E 67 ?
+119 C 67 ?
+120 A 59 ?
+121 D 26 ?
+122 A 31 ?
+123 C 66 ?
+124 E 72 ?
+125 B 12 ?
+126 E 28 ?
+127 B 63 ?
+128 A 80 ?
+129 D 45 ?
+130 A 84 ?
+131 C 72 ?
+132 E 82 ?
+133 B 13 ?
+134 D 37 ?
+135 A 38 ?
+136 A 76 ?
+137 D 65 ?
+138 C 76 ?
+139 B 71 ?
+140 C 44 ?
+QUESTION
+P+
+RESPONSE SUBSCORE
+Number Answer C I 1 2 3
+141 A 69 ?
+142 B 33 ?
+143 A 23 ?
+144 D 29 ?
+145 C 47 ?
+146 D 55 ?
+147 E 50 ?
+148 A 57 ?
+149 E 48 ?
+150 E 80 ?
+151 D 38 ?
+152 C 44 ?
+153 B 78 ?
+154 C 73 ?
+155 A 66 ?
+156 D 47 ?
+157 C 42 ?
+158 A 53 ?
+159 C 91 ?
+160 E 11 ?
+161 B 74 ?
+162 C 24 ?
+163 D 12 ?
+164 C 49 ?
+165 E 54 ?
+166 C 68 ?
+167 A 83 ?
+168 C 51 ?
+169 B 79 ?
+170 D 79 ?
+171 B 83 ?
+172 B 66 ?
+173 B 72 ?
+174 D 33 ?
+175 C 19 ?
+176 D 61 ?
+177 B 35 ?
+178 A 56 ?
+179 C 49 ?
+180 D 34 ?
+181 D 14 ?
+182 E 65 ?
+183 A 65 ?
+184 A 84 ?
+185 A 76 ?
+186 C 63 ?
+187 C 48 ?
+188 E 30 ?
+189 C 37 ?
+190 D 28 ?
+191 C 30 ?
+192 E 21 ?
+193 C 56 ?
+194 D 64 ?
+195 D 12 ?
+196 D 57 ?
+197 A 18 ?
+198 D 24 ?
+199 C 57 ?
+200 **
+Subscores
+1) C ? I/4 = ____________ SS = ____________
+2) C ? I/4 = ____________ SS = ____________
+3) C ? I/4 = ____________ SS = ____________
+BIOLOGY TEST
+PRACTICE BOOK
+67
+Score Conversions and Percents 
+Below* for GRE Biology Test, 
+Form GR0624 Only
+ *Percent scoring below the scaled score is based on the performance of 
+12,405 examinees who took the BIOLOGY Test between July 1, 2004, and 
+June 30, 2007. This percent below information was used for score reports 
+during the 2008-09 testing year.
+ 
+SUBSCORES
+Raw Scores Scaled
+Score
+Raw Scores Scaled
+ScoreSub 1 Sub 2 Sub 3 Sub 1 Sub 2 Sub 3
+63-67 60-67 99 27 27 32 64
+62 59 98 26 26 31 63
+61 58 97 25 25 30 62
+60 57 96 24 24 28-29 61
+59 56 65 95 23  27 60
+58 55 64 94
+57 54 63 93 22 23 26 59
+56 53 62 92 21 22 25 58
+55 52 61 91 20 21 24 57
+54 51 60 90 19 20 23 56
+18 19 22 55
+53 50 59 89 17 18 21 54
+52 49 58 88 16 17 20 53
+50-51 57 87 15 16 19 52
+49 48 56 86 14 15 18 51
+48 47 54-55 85 13 14 16-17 50
+47 46 53 84
+46 45 52 83 12 13 15 49
+45 44 51 82 11 12 14 48
+44 43 50 81 10 13 47
+43 42 49 80 8-9 11 12 46
+7 10 11 45
+42 41 48 79 6 9 10 44
+41 40 47 78 5 8 9 43
+40 39 46 77 4 7 8 42
+39 38 45 76 3 6 7 41
+38 37 44 75 2 5 6 40
+37 43 74
+36 36 41-42 73 1 4 5 39
+35 35 40 72 0 3 3-4 38
+34 34 39 71 2 2 37
+33 33 38 70 1 1 36
+0 0 35
+32 32 37 69
+31 31 36 68
+30 30 35 67
+29 29 34 66
+28 28 33 65
+TOTAL SCORE
+Raw Score Scaled Score % Raw Score Scaled Score %
+180-199 990 99 85-87 640 47
+177-179 980 99 82-84 630 43
+174-176 970 99 80-81 620 40
+172-173 960 99 77-79 610 37
+169-171 950 99 74-76 600 34
+166-168 940 99
+164-165 930 99 71-73 590 31
+161-163 920 99 69-70 580 28
+158-160 910 99 66-68 570 26
+155-157 900 98 63-65 560 23
+61-62 550 21
+153-154 890 98 58-60 540 19
+150-152 880 97 55-57 530 16
+147-149 870 96 52-54 520 14
+145-146 860 96 50-51 510 12
+142-144 850 95 47-49 500 10
+139-141 840 94
+136-138 830 92 44-46 490 9
+134-135 820 90 42-43 480 7
+131-133 810 89 39-41 470 6
+128-130 800 88 36-38 460 5
+33-35 450 4
+126-127 790 86 31-32 440 3
+123-125 780 84 28-30 430 2
+120-122 770 82 25-27 420 2
+117-119 760 79 23-24 410 1
+115-116 750 77 20-22 400 1
+112-114 740 75
+109-111 730 72 17-19 390 1
+107-108 720 69 14-16 380 1
+104-106 710 67 12-13 370 1
+101-103 700 64 9-11 360 1
+6-8 350 1
+99-100 690 61 4-5 340 1
+96-98 680 58 1-3 330 1
+93-95 670 56 0 320 1
+90-92 660 53
+88-89 650 49
+Score Conversions for 
+GRE Biology Test Subscores
+Form GR0624 Only
+BIOLOGY TEST
+PRACTICE BOOK
+68
+Evaluating Your
+Performance
+Now that you have scored your test, you may wish 
+to compare your performance with the performance 
+of others who took this test. Both the worksheet on 
+page 66 and the tables on page 67 use performance 
+data from GRE Biology Test examinees.
+The data in the worksheet on page 66 are based 
+on the performance of a sample of the examinees 
+who took this test in December 2006. This sample 
+was selected to represent the total population of 
+GRE Biology Test examinees tested between July 2004
+and June 2007. The numbers in the column labeled 
+?P+? on the worksheet indicate the percentages 
+of examinees in this sample who answered each 
+question correctly. You may use these numbers as 
+a guide for evaluating your performance on each 
+test question.
+The fi rst table on page 67 contains, for each 
+scaled score, the percentage of examinees tested be-
+tween July 2004 and June 2007 who received lower 
+scores. Interpretive data based on the scores earned 
+by examinees tested in this three-year period will be 
+used by admissions offi cers in the 2008-09 testing 
+year. These percentages appear in the score conver-
+sion table in a column to the right of the scaled 
+scores. For example, in the percentage column 
+opposite the scaled score of 670 is the number 56. 
+This means that 56 percent of the GRE Biology Test 
+examinees tested between July 2004 and June 2007 
+scored lower than 670. To compare yourself with 
+this population, look at the percentage next to the 
+scaled score you earned on the practice test.
+Your three subscores show your relative strengths 
+or weaknesses in the three subfi eld areas of the 
+GRE Biology Test. The raw subscores are scaled in 
+such a way that they are related to the total scores 
+on the test. On the average, a person who has a 
+comprehensive background in the fi eld can expect 
+to have subscores equal to about one-tenth of his 
+or her total score. Thus, if you have a total score of 
+600, and your undergraduate program placed equal 
+emphasis on the three areas of Biology represented 
+by the subscores, you would expect to have a scaled 
+subscore of about 60 in each area. If, however, your 
+subscores differ by more than a few points, you may 
+take this as an indication that your lower score 
+shows weakness, and you may wish to concentrate 
+your review efforts on topics in that area.
+It is important to realize that the conditions under 
+which you tested yourself were not exactly the 
+same as those you will encounter at a test center. 
+It is impossible to predict how different test-taking 
+conditions will affect test performance, and this is 
+only one factor that may account for differences 
+between your practice test scores and your actual 
+test scores. By comparing your performance on this 
+practice test with the performance of other GRE 
+Biology Test examinees, however, you will be able 
+to determine your strengths and weaknesses and 
+can then plan a program of study to prepare yourself 
+for taking the GRE Biology Test under standard 
+conditions.
+En
+te
+r y
+o
+u
+r 
+la
+st
+ n
+am
+e,
+ 
+fi r
+st
+ n
+am
+e 
+in
+iti
+al
+ (g
+ive
+n n
+am
+e),
+ 
+an
+d
+m
+id
+dl
+e 
+in
+iti
+al
+ if
+ y
+o
+u
+ h
+av
+e 
+o
+n
+e
+.
+O
+m
+it 
+sp
+ac
+es
+, a
+po
+st
+ro
+ph
+es
+, J
+r.,
+ 
+II.
+, e
+tc
+.
+D
+O
+ N
+OT
+ U
+SE
+ IN
+K
+G
+RA
+DU
+AT
+E 
+R
+EC
+O
+RD
+ E
+XA
+M
+IN
+AT
+IO
+NS
+?
+ 
+ 
+-
+-
+ 
+ 
+SU
+BJ
+EC
+T 
+TE
+ST
+SI
+DE
+ 1
+Item responses continued on reverse side.
+SI
+G
+NA
+TU
+RE
+:
+CE
+NT
+ER
+:
+YO
+UR
+ N
+AM
+E:
+M
+A
+IL
+IN
+G
+ A
+DD
+RE
+SS
+:
+(P
+rin
+t)
+(P
+rin
+t)
+La
+st
+ N
+am
+e 
+(Fa
+m
+ily
+ o
+r S
+ur
+n
+a
+m
+e
+)   
+    
+    
+    
+ Fi
+rst
+ N
+am
+e (
+Gi
+ve
+n
+)   
+    
+    
+    
+M.
+I.
+ 
+P.
+O.
+ 
+Bo
+x 
+o
+r 
+St
+re
+et
+ A
+dd
+re
+ss
+Ci
+ty
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+St
+at
+e 
+or
+ P
+ro
+vi
+nc
+e
+Co
+un
+try
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zi
+p 
+or
+ P
+o
+st
+al
+ C
+od
+e
+Ci
+ty
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+St
+at
+e 
+or
+ P
+ro
+vi
+nc
+e
+Co
+un
+try
+ 
+ 
+ 
+Ce
+nt
+er
+ N
+um
+be
+r  
+   
+   
+   
+   
+ 
+ 
+ 
+R
+oo
+m
+ N
+um
+be
+r
+2.
+3.
+ 
+DA
+TE
+ O
+F 
+BI
+RT
+H
+M
+on
+th
+D
+ay
+Ye
+a
+r
+Ja
+n.
+Fe
+b.
+M
+ar
+.
+Ap
+ril
+M
+ay
+Ju
+ne
+Ju
+ly
+Au
+g.
+Se
+pt
+.
+O
+ct
+.
+N
+ov
+.
+D
+ec
+.
+0 1 2 3
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+4.
+ 
+SO
+CI
+AL
+ S
+EC
+UR
+IT
+Y
+N
+UM
+BE
+R
+(U
+.
+S.
+A.
+ 
+o
+n
+ly)
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+ 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1
+ 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2
+ 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3
+ 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4
+ 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5
+ 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6
+ 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7 
+7
+ 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+8
+ 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9 
+9
+6.
+ 
+TI
+TL
+E 
+CO
+DE
+(on
+ ba
+ck
+ c
+ov
+e
+r 
+o
+f
+yo
+u
+r 
+te
+st
+ b
+oo
+k)
+5.
+ 
+R
+EG
+IS
+TR
+AT
+IO
+N
+N
+UM
+BE
+R
+(fr
+om
+ yo
+u
+r 
+a
+dm
+iss
+io
+n 
+tic
+ke
+t)
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+ 
+1 
+1 
+1 
+1 
+1 
+1 
+1
+ 
+2 
+2 
+2 
+2 
+2 
+2 
+2
+ 
+3 
+3 
+3 
+3 
+3 
+3 
+3
+ 
+4 
+4 
+4 
+4 
+4 
+4 
+4
+ 
+5 
+5 
+5 
+5 
+5 
+5 
+5
+ 
+6 
+6 
+6 
+6 
+6 
+6 
+6
+ 
+7 
+7 
+7 
+7 
+7 
+7 
+7
+ 
+8 
+8 
+8 
+8 
+8 
+8 
+8
+ 
+9 
+9 
+9 
+9 
+9 
+9 
+9
+ 
+0 
+0 
+0 
+0 
+0
+ 
+1 
+1 
+1 
+1 
+1
+ 
+2 
+2 
+2 
+2 
+2
+ 
+3 
+3 
+3 
+3 
+3
+ 
+4 
+4 
+4 
+4 
+4
+ 
+5 
+5 
+5 
+5 
+5
+ 
+6 
+6 
+6 
+6 
+6
+ 
+7 
+7 
+7 
+7 
+7 
+ 
+8 
+8 
+8 
+8 
+8
+ 
+9 
+9 
+9 
+9 
+9
+SH
+AD
+ED
+ A
+RE
+A 
+FO
+R 
+ET
+S 
+US
+E 
+O
+NL
+Y
+8.
+ 
+TE
+ST
+ B
+O
+O
+K 
+SE
+RI
+AL
+ N
+UM
+BE
+R
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(nu
+m
+be
+r i
+n 
+up
+pe
+r r
+ig
+ht
+ c
+or
+n
+e
+r 
+o
+f f
+ro
+nt
+ c
+ov
+e
+r 
+o
+f
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+yo
+u
+r 
+te
+st
+ b
+oo
+k)
+FO
+RM
+ C
+O
+DE
+ 
+(on
+ ba
+ck
+ c
+ov
+e
+r 
+o
+f
+yo
+u
+r 
+te
+st
+ b
+oo
+k)
+7.
+ 
+TE
+ST
+ N
+A
+M
+E 
+(on
+ ba
+ck
+ c
+ov
+e
+r 
+o
+f
+ 
+ 
+ 
+ 
+ 
+yo
+u
+r 
+te
+st
+ b
+oo
+k)
+74
+28
+62
+Co
+py
+rig
+ht
+ ?
+ 2
+00
+7 
+by
+ 
+Ed
+uc
+at
+io
+na
+l T
+e
+st
+in
+g 
+Se
+rv
+ic
+e,
+ 
+Pr
+in
+ce
+to
+n,
+ N
+J 
+08
+54
+1
+ 
+Al
+l r
+ig
+ht
+s 
+re
+se
+rv
+e
+d.
+ 
+Pr
+in
+te
+d 
+in
+ U
+.
+S.
+A.
+Q3
+11
+7-
+06
+,0
+7/
+1 
+   
+ 0
+01
+01
+-0
+29
+54
+ ? 
+TF
+77
+E7
+0 
+   
+ M
+H/
+wa
+n
+07
+19
+0
+1 
+   
+   
+   
+2 
+   
+   
+   
+3 
+   
+   
+   
+4
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+ 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A
+ 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B
+ 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+D
+ 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E
+ 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F 
+F
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+G
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+H
+ 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I
+ 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J 
+J
+ 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K 
+K
+ 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L 
+L
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+M
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+N
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+O
+ 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+P
+ 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q 
+Q
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+R
+ 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S
+ 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+T 
+ 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U 
+U
+ 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V 
+V
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+W
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X
+ 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y
+ 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z 
+Z
+o q
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+La
+st
+ N
+am
+e 
+on
+ly 
+(Fa
+m
+ily
+ N
+am
+e 
+or
+ S
+ur
+n
+a
+m
+e
+) -
+ Fi
+rst
+ 15
+ Le
+tte
+rs
+1.
+ 
+N
+A
+M
+E
+Fi
+rs
+t
+N
+am
+e
+In
+iti
+al
+M
+id
+dl
+e
+In
+iti
+al
+BE SURE EACH MARK IS DARK AND COMPLETELY FILLS THE INTENDED SPACE AS ILLUSTRATED HERE:          .          
+YOU MAY FIND MORE RESPONSE SPACES THAN YOU NEED. IF SO, PLEASE LEAVE THEM BLANK.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+Us
+e 
+on
+ly 
+a 
+pe
+nc
+il w
+ith
+ s
+of
+t, 
+bl
+ac
+k 
+le
+ad
+ (N
+o. 
+2 
+or
+ H
+B)
+ to
+ co
+mp
+let
+e t
+his
+ an
+sw
+e
+r 
+sh
+ee
+t.
+Be
+ s
+ur
+e 
+to
+ fi 
+ll 
+in
+ c
+om
+pl
+et
+el
+y 
+th
+e 
+sp
+ac
+e 
+th
+at
+ c
+or
+re
+sp
+on
+ds
+ to
+ y
+o
+u
+r 
+a
+n
+sw
+e
+r 
+ch
+oi
+ce
+.
+Co
+m
+pl
+et
+el
+y 
+er
+a
+se
+ a
+ny
+ e
+rro
+rs
+ o
+r s
+tra
+y 
+m
+a
+rk
+s.
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+?
+02
+95
+4_
+Bo
+ok
+.in
+db
+1
+7/
+9/
+07
+11
+:5
+1:
+29
+AM
+69
+A.
+ 
+Fi
+ll 
+in
+ b
+ot
+h 
+ov
+a
+ls
+ h
+er
+e 
+. . 
+.
+B.
+ 
+si
+gn
+ yo
+u
+r 
+fu
+ll n
+am
+e 
+he
+re
+:
+To
+ 
+ca
+n
+ce
+l y
+o
+u
+r 
+sc
+o
+re
+s 
+fro
+m
+ th
+is
+ te
+st
+ a
+dm
+in
+is
+tra
+tio
+n,
+ 
+yo
+u
+ m
+u
+st
+:
+If 
+yo
+u
+ w
+a
+n
+t t
+o 
+ca
+nc
+el
+ y
+o
+u
+r 
+sc
+o
+re
+s 
+fro
+m
+ th
+is 
+te
+st
+ a
+dm
+in
+ist
+ra
+tio
+n,
+ c
+om
+pl
+et
+e 
+A 
+an
+d 
+B 
+be
+lo
+w
+.
+ 
+Yo
+u
+ w
+ill 
+no
+t r
+ec
+ei
+ve
+ s
+co
+re
+s 
+fo
+r 
+th
+is
+ te
+st
+. N
+o
+re
+co
+rd
+ o
+f t
+hi
+s 
+te
+st
+ o
+r t
+he
+ c
+an
+ce
+lla
+tio
+n 
+wi
+ll b
+e 
+se
+nt
+ to
+ th
+e 
+re
+cip
+ie
+nt
+s 
+yo
+u
+ in
+di
+ca
+te
+d,
+ a
+nd
+ th
+er
+e 
+wi
+ll b
+e 
+no
+ s
+co
+re
+s 
+fo
+r 
+th
+is
+ te
+st
+ 
+o
+n
+ y
+o
+u
+r 
+G
+RE
+ fi 
+le
+.
+IF
+ Y
+O
+U 
+DO
+ N
+OT
+ W
+A
+N
+T 
+TH
+IS
+ A
+NS
+W
+ER
+ S
+HE
+ET
+ TO
+ 
+B
+E 
+SC
+O
+RE
+D
+SIGNATURE: DATE:
+Month     Day     Year
+CERTIFICATION STATEMENT
+Please write the following statement below, DO NOT PRINT.
+?I certify that I am the person whose name appears on this answer sheet. I also
+agree not to disclose the contents of the test I am taking today to anyone.?
+Sign and date where indicated.
+TR TW TFS TCS
+FOR ETS USE ONLY
+1R
+3R
+1W
+3W
+5R 5W
+1FS
+3FS
+5FS
+1CS
+3CS
+5CS
+2R
+4R
+6R
+2W
+4W
+6W
+2FS
+4FS
+6FS
+2CS
+4CS
+6CS
+SIDE 2
+SUBJECT TEST
+COMPLETE THE
+CERTIFICATION STATEMENT,
+THEN TURN ANSWER SHEET
+OVER TO SIDE 1.
+BE SURE EACH MARK IS DARK AND COMPLETELY FILLS THE INTENDED SPACE AS ILLUSTRATED HERE:       .          
+YOU MAY FIND MORE RESPONSE SPACES THAN YOU NEED. IF SO, PLEASE LEAVE THEM BLANK.
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+ A B C D E
+02
+95
+4_
+Bo
+ok
+.in
+db
+2
+7/
+9/
+07
+11
+:5
+1:
+31
+AM
+70
+62272-007629 ? U127M2 ? 7699 ? Printed in U.S.A.72270-007629 ? WEBPDF68
+746067

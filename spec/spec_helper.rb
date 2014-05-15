@@ -6,6 +6,7 @@ Bundler.setup
 Bundler.require
 
 ENV["RACK_ENV"] = "test"
+ENV["AWS_S3_BUCKET"] ||= "test-bucket"
 
 require 'rspec'
 require 'rack/test'

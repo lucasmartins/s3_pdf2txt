@@ -2,8 +2,8 @@ require "spec_helper"
 
 describe S3UploaderWorker do
 
-  let(:file_origin) { 'spec/fixtures/vivo_longa_distancia.txt' }
-  let(:file_destination) { 'vivo_longa_distancia.txt' } # on S3
+  let(:file_origin) { 'spec/fixtures/fixture_one.txt' }
+  let(:file_destination) { 'fixture_one.txt' } # on S3
   
   describe '#perform' do
     before(:all) do
