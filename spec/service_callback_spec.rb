@@ -12,5 +12,11 @@ describe ServiceCallback do
         expect(response.code).to eq(200)
       end
     end
+
+    it 'raises exception unless HTTP code is 200 OK' do
+      VCR.use_cassette('service_callback.send_404', :record => :once) do
+        expect{ ServiceCallback.send('http://nonexisting.service', body, params) }.to raise_error
+      end
+    end
   end
 end
