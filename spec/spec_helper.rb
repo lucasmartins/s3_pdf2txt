@@ -1,5 +1,5 @@
 # encoding: UTF-8
-unless ENV["RACK_ENV"] == "development" || ENV['TRAVIS']
+if ENV["CI"]
   require "codeclimate-test-reporter"
   CodeClimate::TestReporter.start  
 end

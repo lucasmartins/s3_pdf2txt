@@ -6,3 +6,4 @@ services:
   - redis
 env:
   - CODECLIMATE_REPO_TOKEN=b48fa74252a7e3e76fbb0b073545188ba29136f90ba8ff3def839cc4d9a7a14c 
+script: bundle exec rspec
