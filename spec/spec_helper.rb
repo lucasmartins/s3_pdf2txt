@@ -1,5 +1,6 @@
 # encoding: UTF-8
-if ENV['CI']
+# Travis won't get the data right.
+unless ENV['TRAVIS']
   require "codeclimate-test-reporter"
   CodeClimate::TestReporter.start  
 end
