@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lucasmartins/s3_pdf2txt.svg)] [![Quality Status](https://codeclimate.com/github/lucasmartins/s3_pdf2txt.png)](https://codeclimate.com/github/lucasmartins/s3_pdf2txt) [![Coverage Status](https://codeclimate.com/github/lucasmartins/s3_pdf2txt/coverage.png)](https://codeclimate.com/github/lucasmartins/s3_pdf2txt)
+
 Amazon S3 PDF 2 Text conversion service
 =======================================
 
