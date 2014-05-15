@@ -1,6 +1,10 @@
 source "https://rubygems.org/"
 
-ruby "2.0.0", :engine => "jruby", :engine_version => "1.7.12"
+# This line should be used for stable deploys
+#ruby "2.0.0", :engine => "jruby", :engine_version => "1.7.12"
+
+# This line is here because Travis won't install jruby-20mode, so I'm using jruby-head.
+ruby "2.1.2", :engine => "jruby", :engine_version => "9000.dev-SNAPSHOT"
 
 # App Stack
 gem "sinatra", "~> 1.4"

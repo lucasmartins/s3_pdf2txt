@@ -1,3 +1,4 @@
 env.sh
 storage/*
 *.DS_Store
+coverage/
