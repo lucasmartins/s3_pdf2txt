@@ -1,10 +1,13 @@
 source "https://rubygems.org/"
 
-if ENV['TRAVIS'] || ENV['DYNO']
+if ENV['TRAVIS']
   # This line is here because Travis won't install jruby-20mode, so I'm using jruby-head.
   ruby "2.1.2", :engine => "jruby", :engine_version => "9000.dev"
-else
+elsif ENV['DYNO']
   # This line should be used for stable deploys
+  ruby "2.0.0", :engine => "jruby", :engine_version => "1.7.12"
+else
+  # rbenv adds 'SNAPSHOT' to the end
   ruby "2.1.2", :engine => "jruby", :engine_version => "9000.dev-SNAPSHOT"
 end
 
