@@ -1,6 +1,6 @@
 source "https://rubygems.org/"
 
-if ENV['TRAVIS']
+if ENV['TRAVIS'] || ENV['DYNO']
   # This line is here because Travis won't install jruby-20mode, so I'm using jruby-head.
   ruby "2.1.2", :engine => "jruby", :engine_version => "9000.dev"
 else
