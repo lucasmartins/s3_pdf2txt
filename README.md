@@ -21,6 +21,8 @@ The codebase will evolve at a point where you can just drop it in your environme
 Usage
 =====
 
+If you can take the heat, here it goes.
+
 For development test, you might want to use a [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) Collection from `spec/fixtures/postman.json`
 
 Or plain old cURL:
