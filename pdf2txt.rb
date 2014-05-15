@@ -19,7 +19,7 @@ class Pdf2txt < Sinatra::Base
     end
   end
 
-  if ENV['RACK_ENV']=='development'
+  if ['development','test'].include? ENV['RACK_ENV']
     post '/mock_callback' do
       content_type :json
       puts request.inspect
