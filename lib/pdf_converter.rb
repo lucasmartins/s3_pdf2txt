@@ -17,7 +17,6 @@ class PdfConverter
   def self.retrieve_and_convert!(file_url, local_copy, &block)
     raise 'invalid file_url' unless file_url =~ /http/
     raise 'invalid local_copy' unless  local_copy
-    raise 'no block given' unless block_given?
 
     downloaded_file = File.open local_copy, 'wb'
     request = Typhoeus::Request.new(file_url)
