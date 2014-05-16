@@ -31,6 +31,7 @@ class PdfConverter
     request.on_complete do |response|
       downloaded_file.close
       new_file = convert!(local_copy)
+      raise "File conversion went bad, not found on #{new_file}" unless File.exists?(new_file)
       block.call(new_file) if block_given?
     end
     request.run
