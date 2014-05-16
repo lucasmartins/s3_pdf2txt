@@ -20,6 +20,10 @@ gem 'sidekiq'
 gem 'aws-s3'
 gem 'puma'
 
+group :production do
+  gem 'appsignal'
+end
+
 group :development, :test do
   gem 'foreman'
   gem 'vcr'
