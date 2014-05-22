@@ -2,6 +2,10 @@ require 'sinatra/json'
 require 'json'
 
 class Pdf2txt < Sinatra::Base
+  get '/' do
+    content_type :json
+    body({"you shouldn't"=>'be here'}.to_json)
+  end
   post '/convert' do
     content_type :json
     begin
