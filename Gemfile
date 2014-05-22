@@ -20,7 +20,7 @@ gem 'sidekiq'
 gem 'aws-s3'
 gem 'puma'
 
-group :production do
+group :production, :staging do
   gem 'appsignal'
 end
 
