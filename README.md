@@ -28,7 +28,9 @@ For development test, you might want to use a [Postman](https://chrome.google.co
 
 Or plain old cURL:
 
-`curl -X POST -d '{"file_url":"https://s3.amazonaws.com/my-bucket/stub.pdf", "callback_url":"http://63668e1.ngrok.com/mock_callback"}' http://pdf2txt.herokuapp.com/convert`
+```
+curl -X POST -d '{"file_url":"https://s3.amazonaws.com/my-bucket/stub.pdf", "callback_url":"http://63668e1.ngrok.com/mock_callback"}' http://pdf2txt.herokuapp.com/convert
+```
 
 You should receive an HTTP 200 OK with a JSON body:
 ```json
