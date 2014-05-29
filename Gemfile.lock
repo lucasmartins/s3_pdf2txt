@@ -124,6 +124,7 @@ DEPENDENCIES
   appsignal
   aws-s3
   codeclimate-test-reporter
+  dotenv
   foreman
   pry
   pry-nav

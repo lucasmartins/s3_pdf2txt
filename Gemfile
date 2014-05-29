@@ -11,6 +11,8 @@ else
   ruby "2.1.2", :engine => "jruby", :engine_version => "9000.dev-SNAPSHOT"
 end
 
+gem 'dotenv', groups: [:development, :test]
+
 # App Stack
 gem "sinatra", "~> 1.4"
 gem 'sinatra-contrib'

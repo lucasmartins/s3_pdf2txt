@@ -1,5 +1,6 @@
 require 'sinatra/json'
 require 'json'
+require 'config/boot'
 
 class Pdf2txt < Sinatra::Base
   get '/' do

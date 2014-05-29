@@ -1,3 +1,7 @@
+# Bootloader
+require 'dotenv'
+Dotenv.load
+
 # Load path and gems/bundler
 $LOAD_PATH << File.expand_path(File.dirname("../#{__FILE__}"))
 
