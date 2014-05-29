@@ -1,5 +1,5 @@
 [![Codeship.io](https://codeship.io/projects/5a07c780-c8c6-0131-c52d-16088bffedc0/status)](https://www.codeship.io/projects/21408)
-[![Build Status](https://travis-ci.org/lucasmartins/s3_pdf2txt.svg)](https://travis-ci.org/lucasmartins/s3_pdf2txt) [![Quality Status](https://codeclimate.com/github/lucasmartins/s3_pdf2txt.png)](https://codeclimate.com/github/lucasmartins/s3_pdf2txt) [![Coverage Status](https://codeclimate.com/github/lucasmartins/s3_pdf2txt/coverage.png)](https://codeclimate.com/github/lucasmartins/s3_pdf2txt)
+ [![Quality Status](https://codeclimate.com/github/lucasmartins/s3_pdf2txt.png)](https://codeclimate.com/github/lucasmartins/s3_pdf2txt) [![Coverage Status](https://codeclimate.com/github/lucasmartins/s3_pdf2txt/coverage.png)](https://codeclimate.com/github/lucasmartins/s3_pdf2txt)
 
 Amazon S3 PDF 2 Text conversion service
 =======================================
