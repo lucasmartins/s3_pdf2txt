@@ -12,13 +12,6 @@ within Sinatra. Under the hood it uses Sidekiq do proccess jobs in the backgroun
 
 **It's all async!**
 
-Should I use this?
-==================
-
-**NO!** Unless you're willing to fork & dig through some code, send some Pull Requests and take some risk at your production environment.
-
-The codebase will evolve at a point where you can just drop it in your environment and use it. But that's not now.
-
 Usage
 =====
 
