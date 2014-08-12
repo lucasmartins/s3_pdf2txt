@@ -21,3 +21,5 @@ require 'json'
     require f unless f.match(/\/\..+$/) || File.directory?(f)
   }
 end
+
+AWS::S3::Base.establish_connection!(access_key_id: ENV['AWS_S3_KEY'], secret_access_key: ENV['AWS_S3_SECRET'])
