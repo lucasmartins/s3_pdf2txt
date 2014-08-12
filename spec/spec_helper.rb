@@ -9,6 +9,9 @@ require 'bundler'
 Bundler.setup
 Bundler.require
 
+require 'dotenv'
+Dotenv.load
+
 ENV["RACK_ENV"] = "test"
 ENV["AWS_S3_BUCKET"] ||= "test-bucket"
 

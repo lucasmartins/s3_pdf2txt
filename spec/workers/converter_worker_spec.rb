@@ -11,10 +11,6 @@ describe ConverterWorker do
   let(:storage_path_2) { PdfConverter.storage_path(pdf_file_url_2.split('/').last) }
   let(:callback_url) { 'https://0.0.0.0/txt/callback' }
   
-  before(:all) do
-    AWS::S3::Base.establish_connection!(access_key_id: ENV['AWS_S3_KEY'], secret_access_key: ENV['AWS_S3_SECRET'])
-  end
-
   context 'fixture one' do
     before(:each) do
       AWS::S3::S3Object.delete storage_path, ENV['AWS_S3_BUCKET']
