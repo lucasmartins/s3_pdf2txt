@@ -1,6 +1,10 @@
 # Bootloader
-require 'dotenv'
-Dotenv.load
+begin
+  require 'dotenv'
+  Dotenv.load
+rescue Exception => e
+  "It seems that you're not at development evironment, so I won't load Dotenv."
+end
 
 # Load path and gems/bundler
 $LOAD_PATH << File.expand_path(File.dirname("../#{__FILE__}"))
